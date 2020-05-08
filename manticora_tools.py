@@ -17,11 +17,12 @@ import math
 #WFP_FILE_RATTERN = r'^.\d{8}.\d{3}.wfp$'
 #TIME_PATTERN_STRING_1 = r'\d{1,3}'
 #TIME_PATTERN_STRING = r'\d{1,2}:\d{1,2}:\d{1,3}:\d{1,3}.\d{1,3}.\d{1,3}'
-#SUM_FILE_PATTERN = r'sum.\d{3}'
+SUM_FILE_PATTERN = r'\d{3}\.sum'
 SCRIPT_DIRECTORY = os.getcwd()
 RAW_FILE_REGULAR_PATTEN = r"^\d{8}\.\d{3}$"
 BSM_REGULAR_PATTERN = r"^BSM\d{2}$"
 DAY_REGULAR_PATTERN = r"^\d{6}(|.\d{2,3})$"
+TAIL_FILE_REGULAR_PATTERN = r"^\d{8}\."
 # =============================================================================
 #
 # =============================================================================
@@ -215,10 +216,10 @@ def read_input_card():
 def directory_objects_parser(directory, object_pattern):
     """Parses the objects through the given directory.
 
-    Takes regular expression of the object and
-    the absolute path of the directory. Finally
-    returns the sting with relative names of this
-    objects separated by spaces in this string"""
+    Takesthe absolute path of the directory and regular
+    expression (in string, not re.compiled!) of the
+    object. Finally returns the sting with relative names
+    of this objects separated by spaces in this string"""
 
     object_pattern = re.compile(object_pattern)
     list_files_unsorted_in_lists = [re.findall(object_pattern, k) for k in os.listdir(directory)]

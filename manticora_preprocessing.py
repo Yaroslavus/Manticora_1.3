@@ -5,7 +5,7 @@ Created on Mon Apr 20 23:45:35 2020
 
 @author: yaroslav
 """
-
+import re
 import manticora_tools as tools
 # =============================================================================
 #
@@ -56,7 +56,9 @@ def to_process_single_file(file_to_process):
     The details of functions see in their own docstrings."""
 
     with open(".mess.txt", "a") as mess_file:
-        if tools.file_is_exist(tools.make_PED_file_temp(file_to_process) + ".fpd") is False:
+        if (tools.file_is_exist(tools.make_PED_file_temp(file_to_process) + ".fpd") or
+                tools.file_is_exist(tools.make_PED_file_temp(file_to_process) + ".sgm") or
+                tools.file_is_exist(tools.make_PED_file_temp(file_to_process) + ".ig")) is False:
             make_pedestals(file_to_process)
 #           .fpd - fine pedestals
             print("Cleaning for pedestals")
@@ -78,6 +80,8 @@ def to_process_single_file(file_to_process):
             print("Made temporary file:  {}.ig".format(
                 tools.make_PED_file_temp(file_to_process)))
         else: print("Pedestal file exists.")
+    if (tools.file_is_exist(tools.make_BSM_file_temp(file_to_process) + ".wfp") or
+            tools.file_is_exist(tools.make_BSM_file_temp(file_to_process) + ".hdr")) is False:
         make_clean_amplitudes_and_headers(file_to_process)
 #       .hdr - file with only events number #1, event number #2,
 #       time of event and maroc number
@@ -92,6 +96,7 @@ def to_process_single_file(file_to_process):
             tools.make_BSM_file_temp(file_to_process)))
         print("Made temporary file:  {}.wfp".format(
             tools.make_BSM_file_temp(file_to_process)))
+    else: print("Cleaned files exists.")
 #==============================================================================
 #
 # =============================================================================
@@ -238,23 +243,49 @@ def make_clean_amplitudes_and_headers(file_to_process):
 #
 # =============================================================================
 
-def create_empty_sum_files(start_time):
+def fill_the_summary_files(start_time):
+    """I feel sorry for man who will refactor this monster. Really
+
+    This function consists from three parts.
+
+    Part one:
+
+    Firstly it creates days_set which contain all the days present
+    in .files_list. If you preprocessed one day, there will be only it.
+
+    Then for every day it creates tails_set. Tails_set contains the tails
+    of all files preprocessed in the directory of this day. For example,
+    if you preprocessed only the files xxx.001, set will contain only one
+    item - "001". If you preprocessed all the day, the set will contain all
+    the tails from "001" (001, 002, 003, ..., the last one).
+
+    Then for each day it run all the files with the same tail (all the
+    files ".001", then all the files ".002" etc.). There must be 22 files
+    in general case. And it searches the minimal and maximal event number
+    for this (22) files.
+
+    Finally it creates the dictionary of dictionaries with next construction:
+    dict_of_days = {day: dict_of_max_min},
+    dict_of_max_min = {tail: [min_number, max_number]}
+
+    The end of part one."""
 
     days_set = set()
     chunk_size = 282
     dict_of_max_min = {}
     dict_of_days = {}
-    print("Maximum and minimum numbers in parallel bsms are searching...")
+    print("Evevt numbers range in parallel bsms are finding out...")
     files = open('.files_list.txt', 'r')
     files_list = files.readlines()
     files.close()
     for file_1 in files_list:
-        file_directory = file_1[:-19]
+        file_1 = tools.check_and_cut_the_tail(file_1)
+        file_directory = file_1[:-18]
         days_set.add(file_directory)
     for day in days_set:
         tails_set = set()
         for file_2 in files_list:
-            if file_2[:-19] == day:
+            if file_2[:-18] == day:
                 file_2 = tools.check_and_cut_the_tail(file_2)
                 tails_set.add(file_2[60:])
                 with open('.files_list.txt', 'r') as files:
@@ -263,7 +294,7 @@ def create_empty_sum_files(start_time):
                         num_max, num_min = 0, 0
                         for file_3 in files_list:
                             file_3 = tools.check_and_cut_the_tail(file_3)
-                            file_directory_1 = file_3[:-19]
+                            file_directory_1 = file_3[:-18]
                             if file_directory == file_directory_1:
                                 file_3 =\
                                 file_3[:-12] + "." + file_3[-12:-3] + tail + '.wfp'
@@ -281,6 +312,23 @@ def create_empty_sum_files(start_time):
                         dict_of_max_min[tail] = [num_min, num_max]
         dict_of_days[day] = dict_of_max_min
     print(tools.time_check(start_time))
+#    print(dict_of_days)
+#    print(days_set)
+
+    """Part two:
+
+    For each day (or only for one day if one day was preprocessed)
+    creates N summary files, where N - number of tails. Each
+    summary file is being created in the day directory and have name
+    tail.sum (001.sum, 002.sum etc.). Each tail.sum file is being
+    filled by M empty blanks, where M = max_number - num_number.
+    Blanks numerated from 1 to M. Every blank contain 24 strings:
+    1 string with BSM number and event number (from 1 to M).
+    Next 22 strings are empty. They will be filled later, in part three.
+    And the last one is empty and won't be filled. It's for separation.
+
+    The end of part two."""
+
     print("The empty summary files are creating...")
     for key_1, val_1 in dict_of_days.items():
         for key_2, val_2 in val_1.items():
@@ -296,7 +344,72 @@ def create_empty_sum_files(start_time):
                     sum_file.write('\n')
     print(tools.time_check(start_time))
 
+    """Part three.
 
-#def fill_the_empty_sum_files ():
-#
-#   sum_pattern = re.compile(sum_file_pattern)
+    Here each existed tail.sum file is being filled by cleaned amplitudes.
+    For each file function runs through all (22) repacking and cleaned data
+    files with this tail in this day directory. For each data file function
+    one by one reads numbers of events. Each block of data function puts to
+    the correspondent place in tail.sum file. This place is the N_1-th string
+    in N_2-th blank, where N_1 - BSM number, N_2 - event number. So, this
+    string in the tail.sum file will contain exatly amplitudes of THIS BSM in
+    THIS event.
+    Finally each tail.sum file contains full information about every event:
+    number, and amplitudes of every BSM, also the time of event in every BSM
+    and trigger-status and ignore-status of every channel in every BSM.
+
+    The end of part three."""
+# dict_of_days = {'/home/yaroslav/Yaroslavus_GitHub/DATA/281017/': {'001': [0, 258162]}}
+# days_set = {'/home/yaroslav/Yaroslavus_GitHub/DATA/281017/'}
+
+    print("The empty summary files are fillng by data...")
+    for key, val in dict_of_days.items():
+        list_of_sum_files = tools.directory_objects_parser(
+            key, tools.SUM_FILE_PATTERN).split()
+        for sum_file in list_of_sum_files:
+            list_of_BSM = tools.directory_objects_parser(
+                key, tools.BSM_REGULAR_PATTERN).split()
+            tail_id = sum_file[:3]
+            sum_file = key + sum_file
+            tail_id_pattern = re.compile(
+                tools.TAIL_FILE_REGULAR_PATTERN + tail_id)
+            tail_files = []
+            for BSM in list_of_BSM:
+                BSM_name = day + BSM + '/'
+                new_tail_file = BSM_name + tools.directory_objects_parser(
+                    BSM_name, tail_id_pattern).split()[0]
+                tail_files.append(new_tail_file)
+            print(tail_files)
+            for tail_file in tail_files:
+                with open(tail_file, 'rb') as tail_file:
+"""Read chunks and write them to the right places of the sum_file through bash sed using"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#    print(tools.time_check(start_time))
