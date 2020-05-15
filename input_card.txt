@@ -1,3 +1,5 @@
+#
+#
 #    ---------------------------------------------This is input card of Manticora TAIGA-IACT processor--------------------------------------------------
 #
 #
@@ -5,13 +7,12 @@
 #    Like this:
 #    /home/work/telescope_data/DATA
 #
-#
-#    ------------------------------------------------------------Choose a command:----------------------------------------------------------------------
+#    -------------------------------------------------------------      SET_1      ---------------------------------------------------------------------
+#    -------------------------------------------------------------Choose a command:---------------------------------------------------------------------
 #
 #    1 | Start work.
-#    2 | Delete all temporary files from old processings.
-#    3 | To create the list of files to process and not to process them.
-#    4 | To create the list of  files to process and not to process it. + To create the gypothetical list of temporary files.
+#    2 | To create the list of files to process and not to process them.
+#    3 | To create the list of  files to process and not to process it. + To create the gypothetical list of temporary files.
 #    ---------------------------------------------------------------------------------------------------------------------------------------------------
 #
 #
@@ -21,36 +22,48 @@
 #######################################
 #
 #
-#    -------------------------------------------------------------What to process?:---------------------------------------------------------------------
-#
-#    1 | To process all the data in /DATA directory.	(syntax:
-#    2 | To process a couple of days.			(syntax:	/ddmmxy /ddmmxy /ddmmxy
-#    3 | To process a day.				(syntax:	/ddmmxy
-#    4 | To process one BSM from one day.		(syntax:	/ddmmxy/BSMxy
-#    5 | To process one file.                           (syntax:	/ddmmxy/BSMxy/ddddy00x.00y
-#    6 | To process a couple of files.			(syntax:	/ddmmxy/BSMxy/ddddx00y.00z /ddmmxy/BSMxy/ddddx00y.00z /ddmmxy/BSMxy/ddddx00y.00z
-#    ---------------------------------------------------------------------------------------------------------------------------------------------------
-#
-#
-#    Choose the answer and put it here:
-#######################################
-6
-#######################################
+#    -------------------------------------------------------------      SET_2      ---------------------------------------------------------------------
 #    ------------------------------------------------------What to do with temporary files:-------------------------------------------------------------
 #
-#    1 | To leave all the temporary files after processing finish.
-#    2 | To delete all the temporary files after processing finish.
+#    1 | To leave all the temporary files after processing finish
+#      | (any other answer (empty string or space too) means that
+#      | all temporary files will be deleted after preprocessing).
 #    ---------------------------------------------------------------------------------------------------------------------------------------------------
 #
 #
 #    Choose the answer and put it here:
 #######################################
-1
+
 #######################################
 #
-#    
 #
-#    Now put here the string with object(s) to process:
-#######################################################
-/281017/BSM01/28107001.001 /281017/BSM02/28107002.001 /281017/BSM03/28107003.001 /281017/BSM04/28107004.001 /281017/BSM05/28107005.001 /281017/BSM06/28107006.001 /281017/BSM07/28107007.001 /281017/BSM08/28107008.001 /281017/BSM09/28107009.001 /281017/BSM10/28107010.001 /281017/BSM11/28107011.001 /281017/BSM12/28107012.001 /281017/BSM13/28107013.001 /281017/BSM14/28107014.001 /281017/BSM15/28107015.001 /281017/BSM16/28107016.001 /281017/BSM17/28107017.001 /281017/BSM18/28107018.001 /281017/BSM19/28107019.001 /281017/BSM20/28107020.001 /281017/BSM21/28107021.001 /281017/BSM22/28107022.001
-######################################################
+#    -------------------------------------------------------------      SET_3      ---------------------------------------------------------------------
+#    -----------------------------------------------Now put here the string with object(s) to process:--------------------------------------------------
+#
+#    Use next syntax:
+#
+#    To process all the data in /DATA directory.			(syntax:	a
+#    One day								(syntax:	/ddmmxy
+#    One BSM								(syntax:	/ddmmxy/BSMxy
+#    One file.                           				(syntax:	/ddmmxy/BSMxy/ddddy00x.abc
+#    One tail group (for example, all .001 files from one day)		(syntax:	/ddmmxy/.abc
+#                        					
+#
+#    Objects must be separated by spaces.
+####################################################################################################
+/281017
+####################################################################################################
+#
+#    Examples:
+#
+#    a
+#    /281017
+#    /281017/BSM01
+#    /281017/BSM03/28107003.006
+#    /281017/.004
+#
+#    Example of complex using:
+#    /281017/BSM01/28107001.001 /281017/BSM03 /281017 /281017/.002 /281017.02/BSM01/28107001.001 /281017.02/BSM03 /281017.02 /281017.02/.002
+#
+#
+#

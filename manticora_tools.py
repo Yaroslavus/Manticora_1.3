@@ -17,12 +17,17 @@ import math
 #WFP_FILE_RATTERN = r'^.\d{8}.\d{3}.wfp$'
 #TIME_PATTERN_STRING_1 = r'\d{1,3}'
 #TIME_PATTERN_STRING = r'\d{1,2}:\d{1,2}:\d{1,3}:\d{1,3}.\d{1,3}.\d{1,3}'
-SUM_FILE_PATTERN = r'\d{3}\.sum'
+SUM_FILE_PATTERN = r'\d{3}\.sum$'
 SCRIPT_DIRECTORY = os.getcwd()
-RAW_FILE_REGULAR_PATTEN = r"^\d{8}\.\d{3}$"
-BSM_REGULAR_PATTERN = r"^BSM\d{2}$"
-DAY_REGULAR_PATTERN = r"^\d{6}(|.\d{2,3})$"
-TAIL_FILE_REGULAR_PATTERN = r"^\d{8}\."
+RAW_FILE_REGULAR_PATTERN = r"\d{8}\.\d{3}$"
+BSM_REGULAR_PATTERN = r"BSM\d{2}$"
+DAY_REGULAR_PATTERN = r"^\d{6}\.?\d{0,3}$"
+TAIL_FILE_REGULAR_PATTERN = r"\d{8}\."
+
+TAIL_FILE_REGULAR_PATTERN_U = r"^\/\d{6}\/\.?\d{3}$"
+RAW_FILE_REGULAR_PATTERN_U = r"^\/\d{6}\.?\d{0,3}\/BSM\d{2}\/\d{8}\.\d{3}$"
+BSM_REGULAR_PATTERN_U = r"^\/\d{6}\.?\d{0,3}\/BSM\d{2}$"
+DAY_REGULAR_PATTERN_U = r"^\/\d{6}\.?\d{0,3}$"
 # =============================================================================
 #
 # =============================================================================
@@ -59,14 +64,13 @@ def is_preprocessing_needed(set_1, start_time):
     if set_1 == "1":
         pass
     elif set_1 == "2":
-        mess_destroyer(start_time)
-    elif set_1 == "3":
         print("{}  {}".format(
-            "The list of files to process was made. It's in the script directory under the name",
-            ".files_list.txt\n"))
-        sys.exit()
-    if set_1 == "4":
-        print("\nThe list of temporary files are compiling...\n")
+            "The list of files to process was made.\
+            It's in the script directory under the name",
+            ".files_list.txt"))
+        system_exit()
+    elif set_1 == "3":
+        print("The list of temporary files are compiling...")
         with open(os.getcwd() + "/.files_list.txt", "r") as files_list:
             with open(os.getcwd() + "/.mess.txt", "a") as mess_file:
                 for line in files_list:
@@ -85,16 +89,19 @@ def is_preprocessing_needed(set_1, start_time):
                         ".ig"))
                     mess_file.write("{}  {}{}".format(
                         "\nMade temporary file:",
-                        make_PED_file_temp(line),
+                        make_BSM_file_temp(line),
                         ".hdr"))
                     mess_file.write("{}  {}{}".format(
                         "\nMade temporary file:",
-                        make_PED_file_temp(line),
+                        make_BSM_file_temp(line),
                         ".wfp\n"))
         print("{} {}".format(
-            "The list of temporary files was made. It's in the script directory under the name",
-            ".mess.txt\n"))
-        sys.exit()
+            "The list of temporary files was made.",
+            "It's in the script directory under the name .mess.txt"))
+        system_exit()
+#    else:
+#        print("ERROR: SET_1 IS WRONG!")
+#        system_exit()
 # =============================================================================
 #
 # =============================================================================
@@ -126,30 +133,23 @@ def mess_destroyer(start_time):
     preprocessing"""
 
     print("Mess destroying...")
-    try:
-        mess_file = open(os.getcwd() + "/.mess.txt", "r")
-        mess_file.close()
-    except FileNotFoundError:
+    
+    if is_exist(SCRIPT_DIRECTORY + "/.mess.txt"):
+        with open(".mess.txt", "r") as mess_f:
+            for line in mess_f.readlines():
+                line = check_and_cut_the_tail(line)[22:]
+                if is_exist(line):
+                    os.remove(line)
+                else:
+                    print("{}\t{} {}".format(
+                        line,
+                        "does not exist or was recorded with the mistake.",
+                        "Delete it manually!"))
+        os.remove(SCRIPT_DIRECTORY + "/.mess.txt")
+    else:
         print("{} {}".format(
-            "There are no temporary files or the list of them is damaged.",
-            "Check the file '.mess.txt' in the script directory."))
-    with open(".mess.txt", "r") as mess_f:
-        for line in mess_f.readlines():
-            line = check_and_cut_the_tail(line)
-#            if line == '':
-#                pass
-            try:
-                os.remove(line[22:])
-            except FileNotFoundError:
-                print("{}\t{}".format(
-                    line[22:],
-                    "can't been deleted by unknown reason. Try manually!"))
-    try:
-        os.remove(os.getcwd() + "/.mess.txt")
-    except FileNotFoundError:
-        print(
-            "Unknown error while temporary files deleting! Please, delete manually!")
-
+            "Mess destroying was not produces.",
+            "The file '.mess.txt' does not exist in the script directory."))
     print(time_check(start_time))
 # =============================================================================
 #
@@ -188,8 +188,8 @@ def time_check(start_time):
 
     current_time = time.time() - start_time
     return "\nTime from the start:\n{} h {:2} m {:2} s\n".format(
-        int(current_time//3600),
-        int(current_time//60 - current_time//3600),
+        int(current_time//60//60),
+        int(current_time//60%60),
         int(current_time%60))
 # =============================================================================
 #
@@ -207,6 +207,7 @@ def read_input_card():
         for line in input_card.readlines():
             if line[0] != '#':
                 ans_list.append(line[:-1])
+    print("Input card have been read.")
     return [ans for ans in ans_list]
 
 # =============================================================================
@@ -216,7 +217,7 @@ def read_input_card():
 def directory_objects_parser(directory, object_pattern):
     """Parses the objects through the given directory.
 
-    Takesthe absolute path of the directory and regular
+    Takes the absolute path of the directory and regular
     expression (in string, not re.compiled!) of the
     object. Finally returns the sting with relative names
     of this objects separated by spaces in this string"""
@@ -264,10 +265,10 @@ def square_root(expression):
 #
 # =============================================================================
 
-def file_is_exist(file):
+def is_exist(file):
     """Check is file is present. Returns True or False."""
 
-    return os.path.isfile(file)
+    return os.path.exists(file)
 # =============================================================================
 #
 # =============================================================================
@@ -306,3 +307,8 @@ def unpacked_from_bytes(rule, bytes_chunk):
 # =============================================================================
 #
 # =============================================================================
+
+def system_exit():
+    """Simple system exit"""
+
+    sys.exit()
