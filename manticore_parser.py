@@ -6,7 +6,7 @@ Created on Mon Apr 20 15:18:23 2020
 @author: yaroslav
 """
 import re
-import manticora_tools as tools
+import manticore_tools as tools
 # =============================================================================
 #
 # =============================================================================
@@ -165,12 +165,6 @@ def universal_parser(string_with_objects_to_process, start_time):
         else:
             print("ERROR: SET_3 IS FILLED WRONG!")
             tools.system_exit()
-
-#    print("Founded\t{}\tdays\t{}\tBSMs\t{}\tfiles\t{}\ttails\n".format(
-#        len(list_of_days),
-#        len(list_of_bsm),
-#        len(list_of_files),
-#        len(list_of_tails)))
 
     files_list = open('.files_list.txt', 'w+', encoding="utf-8")
     files_list.close()

@@ -197,7 +197,7 @@ def read_input_card():
 
     This sets contain work modes and the string with objects to process
     (files, lone BSMs, days etc.). Returns all of them outside to the
-    manticora_main module."""
+    manticore_main module."""
 
     with open("input_card.txt", "r") as input_card:
         ans_list = []

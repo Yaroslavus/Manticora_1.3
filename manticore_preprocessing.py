@@ -5,7 +5,7 @@ Created on Mon Apr 20 23:45:35 2020
 
 @author: yaroslav
 """
-import manticora_tools as tools
+import manticore_tools as tools
 # =============================================================================
 #
 # =============================================================================

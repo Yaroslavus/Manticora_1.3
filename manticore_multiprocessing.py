@@ -6,8 +6,8 @@ Created on Fri May 15 17:46:18 2020
 @author: yaroslav
 """
 from multiprocessing import Process, Manager
-import manticora_preprocessing
-import manticora_tools as tools
+import manticore_preprocessing
+import manticore_tools as tools
 # =============================================================================
 #
 # =============================================================================
@@ -30,7 +30,7 @@ def to_process_single_file_mult(file_to_process, strings_to_write_to_mess_file):
     if (tools.is_exist(tools.make_PED_file_temp(file_to_process) + ".fpd") or
             tools.is_exist(tools.make_PED_file_temp(file_to_process) + ".sgm") or
             tools.is_exist(tools.make_PED_file_temp(file_to_process) + ".ig")) is False:
-        manticora_preprocessing.make_pedestals(file_to_process)
+        manticore_preprocessing.make_pedestals(file_to_process)
 #       .fpd - fine pedestals
         print("Cleaning for pedestals")
         strings_to_write_to_mess_file.append(
@@ -56,7 +56,7 @@ def to_process_single_file_mult(file_to_process, strings_to_write_to_mess_file):
     else: print("Pedestal file for\t{}\texists.".format(file_to_process))
     if (tools.is_exist(tools.make_BSM_file_temp(file_to_process) + ".wfp") or
             tools.is_exist(tools.make_BSM_file_temp(file_to_process) + ".hdr")) is False:
-        manticora_preprocessing.make_clean_amplitudes_and_headers(file_to_process)
+        manticore_preprocessing.make_clean_amplitudes_and_headers(file_to_process)
 #           .hdr - file with only events number #1, event number #2,
 #           time of event and maroc number
         print("Creating of the header...")
@@ -149,7 +149,7 @@ def fill_the_summary_files_mult(dict_of_days, start_time):
             print("The total information about tail  {}  is compiling...".format(tail))
             tails_counter += 1
             proc = Process(
-                target=manticora_preprocessing.create_summary_file_for_tail,
+                target=manticore_preprocessing.create_summary_file_for_tail,
                 args=(tail, tail_max_min_list, start_time,
                       list_of_BSM, day_directory, tails_counter,
                       list_of_tails))
@@ -183,10 +183,10 @@ def count_tails_range_mult(start_time):
     print("Evevt numbers range in parallel bsms are finding out...")
     with open('.files_list.txt', 'r') as files:
         files_list = files.readlines()
-    days_set = manticora_preprocessing.set_of_days(files_list)
+    days_set = manticore_preprocessing.set_of_days(files_list)
 
     for day in sorted(days_set):
-        tails_set = manticora_preprocessing.set_of_tails(files_list, day)
+        tails_set = manticore_preprocessing.set_of_tails(files_list, day)
         for tail in sorted(tails_set):
             proc = Process(
                 target=dict_of_num_min_max_in_tail_mult,

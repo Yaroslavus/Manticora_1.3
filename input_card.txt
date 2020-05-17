@@ -1,6 +1,6 @@
 #
 #
-#    ---------------------------------------------This is input card of Manticora TAIGA-IACT processor--------------------------------------------------
+#    ---------------------------------------------This is input card of Manticore TAIGA-IACT processor--------------------------------------------------
 #
 #
 #    First please put the path to the DATA directory to the file "data_directory.config"
