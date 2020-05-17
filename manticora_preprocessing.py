@@ -35,7 +35,6 @@ def to_process(start_time):
                 "preparing binary files",
                 start_time)
             print("\n{} is processing now.".format(file_to_process))
-# u'\u2589'
 # =============================================================================
 #
 # =============================================================================
@@ -174,10 +173,7 @@ def make_clean_amplitudes_and_headers(file_to_process):
     codes_beginning_byte = 24
     codes_ending_byte = 152
     number_1_beginning_byte = 4
-#   number_2_beginning_byte = 8
-#   event_time_beginning_byte = 12
     maroc_number_byte = 20
-#   number_of_codes = 64
 
     with open(tools.make_PED_file_temp(file_to_process) + ".fpd", "rb") as ped_fin:
         peds = ped_fin.read()
@@ -191,21 +187,10 @@ def make_clean_amplitudes_and_headers(file_to_process):
             with open(tools.make_BSM_file_temp(file_to_process) + ".hdr", "wb") as header_file:
 
                 chunk = codes_fin.read(chunk_size)
-#               counter = [0]*64
-#               ampl_av = [0]*64
-#               ampl_square = [0]*64
-#               ampl_sigma = [0]*64
-#               ampl = [0]*64
                 while chunk:
                     cleaned_amplitudes = [0]*96
-#                    chunk_bytes = bytearray(chunk)
                     codes_array = tools.unpacked_from_bytes(
                         '<64h', chunk[codes_beginning_byte:codes_ending_byte])
-#                   a = [0]*64
-#                   for i in range (len (a)):
-#                       ampl [i] += codes_array [i]
-#                       ampl_square [i] += codes_array [i]*codes_array [i]
-#                       counter [i] += 1
                     for i in range(0, len(cleaned_amplitudes), 3):
                         if codes_array[2*i//3] <= 1800:
                             cleaned_amplitudes[i] =\
@@ -232,14 +217,6 @@ def make_clean_amplitudes_and_headers(file_to_process):
                     header_file.write(
                         chunk[number_1_beginning_byte:maroc_number_byte +1])
                     chunk = codes_fin.read(chunk_size)
-
-#    for i in range (len (ampl)):
-#        ampl_av [i] = ampl [i]/counter [i]
-#    for i in range (len (ampl)):
-#        ampl_square [i] = ampl_square [i] / (counter [i] - 1)
-#    for i in range (len (ampl)):
-#        ampl_sigma [i] = mt.square_root (
-#            abs (ampl_square [i] - (ampl_av [i]*ampl_av [i]*counter [i])/(counter [i] - 1)))
 # =============================================================================
 #
 # =============================================================================
@@ -273,7 +250,6 @@ def dict_of_num_min_max_in_tail(tail, files_list, day):
                         num_min = num_ev
                     chunk = wfp_file.read(chunk_size)
     return [num_min, num_max]
-
 # =============================================================================
 #
 # =============================================================================
@@ -352,12 +328,6 @@ def count_tails_range(start_time):
     print("Finding out of evevt numbers range in parallel bsms was finished.")
     print(tools.time_check(start_time))
     return dict_of_days
-
-#    print(dict_of_days)
-#    print(days_set)
-
-##    dict_of_days = {'/home/yaroslav/Yaroslavus_GitHub/DATA/281017/': {'001': [0, 258162]}}
-##    days_set = {'/home/yaroslav/Yaroslavus_GitHub/DATA/281017/'}
 # =============================================================================
 #
 # =============================================================================
@@ -368,7 +338,7 @@ def print_statistics_for_matrix_of_events(matrix_of_events):
     Takes the matrix of events in format M[event number][BSM], where
     each item -
     string = maroc number + event time + 64*'amplitude + trigger status + ignore status'"""
-        
+
     coin = [0]*23
     for string in matrix_of_events:
         string_counter = 0
@@ -377,7 +347,7 @@ def print_statistics_for_matrix_of_events(matrix_of_events):
                 string_counter += 1
         coin[string_counter] += 1
     for i in range(len(coin)):
-        print("coins: {}\tevents: {}\n".format(i, coin[i])) 
+        print("coins: {}\tevents: {}\n".format(i, coin[i]))
 # =============================================================================
 #
 # =============================================================================
@@ -408,10 +378,7 @@ def fill_the_matrix_of_events(matrix_of_events, tail_files, tail, start_time):
             chunk = tail_file.read(chunk_size)
             while chunk:
                 head_array = tools.unpacked_from_bytes('hhii', chunk[:12])
-#            data_type_id = head_array[0]
-#            data_chunk_size = head_array[1]
                 num_event_1 = head_array[2]
-#            num_event_2 = head_array[3]
                 maroc_number = tools.unpacked_from_bytes('h', chunk[20:22])[0]
                 time_array = tools.unpacked_from_bytes('hhhh', chunk[12:20])
                 ns = (time_array[0] & 0x7f)*10

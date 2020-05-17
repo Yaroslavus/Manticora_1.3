@@ -13,10 +13,6 @@ import re
 import struct
 import math
 
-#SCRIPT_DIRECTORY = os.getcwd()
-#WFP_FILE_RATTERN = r'^.\d{8}.\d{3}.wfp$'
-#TIME_PATTERN_STRING_1 = r'\d{1,3}'
-#TIME_PATTERN_STRING = r'\d{1,2}:\d{1,2}:\d{1,3}:\d{1,3}.\d{1,3}.\d{1,3}'
 SUM_FILE_PATTERN = r'\d{3}\.sum$'
 SCRIPT_DIRECTORY = os.getcwd()
 RAW_FILE_REGULAR_PATTERN = r"\d{8}\.\d{3}$"
@@ -102,12 +98,10 @@ def is_preprocessing_needed(set_1, start_time):
             "It's in the script directory under the name .mess.txt"))
         print(time_check(start_time))
         system_exit()
-#    else:
-#        print("ERROR: SET_1 IS WRONG!")
-#        system_exit()
 # =============================================================================
 #
 # =============================================================================
+
 def data_dir():
     """Returns absolute path of the data directory.
 
@@ -154,7 +148,6 @@ def mess_destroyer(start_time):
             "Mess destroying was not produces.",
             "The file '.mess.txt' does not exist in the script directory."))
     print(time_check(start_time))
-#     rm ./BSM{01..22}/.*
 # =============================================================================
 #
 # =============================================================================

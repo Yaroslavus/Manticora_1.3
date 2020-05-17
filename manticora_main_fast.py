@@ -12,7 +12,7 @@ import manticora_parser
 import manticora_tools
 import manticora_multiprocessing
 #==============================================================================
-# All user sets saves in main branch (manticora_processor, HERE)===============
+# All user sets saves in main branch (manticora_main_fast, HERE)===============
 # and oly main branch has access to operate them ==============================
 #==============================================================================
 
