@@ -193,14 +193,14 @@ def universal_parser(string_with_objects_to_process, start_time):
     if list_of_bsm:
         for bsm in list_of_bsm:
             parse_one_BSM(bsm)
-            
+
     if string_with_objects_to_process == 'a':
         parse_all_data()
 
     print("{} {}".format(
         "The list of files to process was made.",
         "It's in the script directory under the name  .files_list.txt"))
-    
+
     print("Parsing finished.")
     print(tools.time_check(start_time))
 # =============================================================================

@@ -26,16 +26,15 @@ def to_process(start_time):
         for file_to_process in files_list:
             file_to_process = tools.check_and_cut_the_tail(file_to_process)
             to_process_single_file(file_to_process)
-            counter += 1
             print("\nPreparing binary files:\n")
+            counter += 1
             tools.syprogressbar(
                 counter,
                 number_of_files_to_process,
                 u'\u24B7',
-                " preparing binary files")
+                "preparing binary files",
+                start_time)
             print("\n{} is processing now.".format(file_to_process))
-            print(tools.time_check(start_time))
-
 # u'\u2589'
 # =============================================================================
 #
@@ -244,88 +243,112 @@ def make_clean_amplitudes_and_headers(file_to_process):
 # =============================================================================
 #
 # =============================================================================
-#
-#def find_num_min_in_tail(dict_of_tails, tail):
+
+def dict_of_num_min_max_in_tail(tail, files_list, day):
+    """Find minimum and maximum event number from one tail from one day.
+
+    Takes one tail from one day in format '001', '002' etc. Then searches
+    for all the corresponding tail files (22 in general case). Runs through
+    each of them, reads their event numbers.
+    Finally returns list with two values: minimum event number for all this
+    files and the maximum one."""
+
+    print("Evevt numbers range in tail {} are finding out...".format(tail))
+    chunk_size = 282
+    num_max, num_min = 0, 0
+    for file in files_list:
+        file = tools.check_and_cut_the_tail(file)
+        day_of_this_file = file[:-18]
+        if day_of_this_file == day:
+            file = file[:-12] + "." + file[-12:-3] + tail + '.wfp'
+            with open(file, 'rb') as wfp_file:
+                chunk = wfp_file.read(chunk_size)
+                while chunk:
+                    num_ev_bytes = chunk[4:8]
+                    num_ev = tools.unpacked_from_bytes(
+                        'I', num_ev_bytes)[0]
+                    if num_ev > num_max:
+                        num_max = num_ev
+                    elif num_ev < num_min:
+                        num_min = num_ev
+                    chunk = wfp_file.read(chunk_size)
+    return [num_min, num_max]
 
 # =============================================================================
 #
 # =============================================================================
-                    
 
-def count_tails_range(start_time):
-    """I feel sorry for man who will refactor this monster. Really.
-
-    Firstly it creates days_set which contain all the days present
-    in .files_list. If you preprocessed one day, there will be only it.
-
-    Then for every day it creates tails_set. Tails_set contains the tails
-    of all files preprocessed in the directory of this day. For example,
-    if you preprocessed only the files xxx.001, set will contain only one
-    item - "001". If you preprocessed all the day, the set will contain all
-    the tails from "001" (001, 002, 003, ..., the last one).
-
-    Then for each day it finds all the files with the same tail (all the
-    files ".001", then all the files ".002" etc.). There must be 22 files
-    in general case. And it searches the minimal and maximal event number
-    for this (22) files.
-
-    Finally it returnes the dictionary of dictionaries with next construction:
-    dict_of_days = {day: dict_of_max_min},
-    dict_of_max_min = {tail: [min_number, max_number]}"""
+def set_of_days(files_list):
+    """Creates days_set which contain full pathes of all the days present
+    in .files_list. If you preprocessed one day, there will be only it."""
 
     days_set = set()
-    chunk_size = 282
-    dict_of_max_min = {}
-    dict_of_days = {}
-    tails_counter = 0
-    print("Evevt numbers range in parallel bsms are finding out...")
-    files = open('.files_list.txt', 'r')
-    files_list = files.readlines()
-
-    files.close()
     for file in files_list:
         file = tools.check_and_cut_the_tail(file)
         file_directory = file[:-18]
         days_set.add(file_directory)
     print("Set of days have been created.")
+    return days_set
+# =============================================================================
+#
+# =============================================================================
+
+def set_of_tails(files_list, day):
+    """Creates tails_set for every day. Works for every day from days_set.
+
+    Tails_set contains the tails of all files preprocessed in the
+    directory of this day. For example, if you preprocessed only the
+    files xxx.001, set will contain only one item - "001". If you
+    preprocessed all the day, the set will contain all the tails from
+    ('001', '002', '003', ..., the last one) of this day."""
+
+    tails_set = set()
+    for file in files_list:
+        if file[:-19] == day:
+            file = tools.check_and_cut_the_tail(file)
+            tails_set.add(file[60:])
+    print("Set of tails have been created.")
+    return tails_set
+# =============================================================================
+#
+# =============================================================================
+
+def count_tails_range(start_time):
+    """For all tails in .files_list.txt find maximum and minimum event number.
+
+    For each day it finds all the files with the same tail (all the
+    files ".001", then all the files ".002" etc.). There must be 22 files
+    for every tail in every day in general case. And it searches the
+    minimal and maximal event number for this (22) files.
+
+    Finally it returnes the dictionary of dictionaries with next construction:
+    dict_of_days = {day: dict_of_max_min},
+    dict_of_max_min = {tail: [min_number, max_number]}"""
+
+    dict_of_max_min = {}
+    dict_of_days = {}
+    tails_counter = 0
+    print("Evevt numbers range in parallel bsms are finding out...")
+    with open('.files_list.txt', 'r') as files:
+        files_list = files.readlines()
+    days_set = set_of_days(files_list)
 
     for day in sorted(days_set):
-        tails_set = set()
-        for file in files_list:
-            if file[:-19] == day:
-                file = tools.check_and_cut_the_tail(file)
-                tails_set.add(file[60:])
-        print("Set of tails have been created.")
-
+        tails_set = set_of_tails(files_list, day)
         for tail in sorted(tails_set):
-            print("Evevt numbers range in tail {} are finding out...".format(tail))
-            num_max, num_min = 0, 0
-            for file in files_list:
-                file = tools.check_and_cut_the_tail(file)
-                day_of_this_file = file[:-18]
-                if day_of_this_file == day:
-                    file = file[:-12] + "." + file[-12:-3] + tail + '.wfp'
-                    with open(file, 'rb') as wfp_file:
-                        chunk = wfp_file.read(chunk_size)
-                        while chunk:
-                            num_ev_bytes = chunk[4:8]
-                            num_ev = tools.unpacked_from_bytes(
-                                'I', num_ev_bytes)[0]
-                            if num_ev > num_max:
-                                num_max = num_ev
-                            elif num_ev < num_min:
-                                num_min = num_ev
-                            chunk = wfp_file.read(chunk_size)
-            dict_of_max_min[tail] = [num_min, num_max]
+            dict_of_max_min[tail] = dict_of_num_min_max_in_tail_1(
+                tail,
+                files_list,
+                day)
+            dict_of_days[day] = dict_of_max_min
             tails_counter += 1
             tools.syprogressbar(tails_counter,
                                 len(tails_set),
                                 u'\u24C2',
-                                " finding out of evevt numbers range in {} tail finished".format(
-                                    tail))
-            print(tools.time_check(start_time))
+                                "finding out of evevt numbers range in {} tail finished".format(
+                                    tail),
+                                start_time)
         print(tools.time_check(start_time))
-        dict_of_days[day] = dict_of_max_min
     print("Finding out of evevt numbers range in parallel bsms was finished.")
     print(tools.time_check(start_time))
     return dict_of_days
@@ -335,23 +358,148 @@ def count_tails_range(start_time):
 
 ##    dict_of_days = {'/home/yaroslav/Yaroslavus_GitHub/DATA/281017/': {'001': [0, 258162]}}
 ##    days_set = {'/home/yaroslav/Yaroslavus_GitHub/DATA/281017/'}
+# =============================================================================
+#
+# =============================================================================
+def print_statistics_for_matrix_of_events(matrix_of_events):
+    """Print the coincidences statistics for every 2 minutes of data
+    (for one tail). From 0_BSM events to 22_BSM events.
+
+    Takes the matrix of events in format M[event number][BSM], where
+    each item -
+    string = maroc number + event time + 64*'amplitude + trigger status + ignore status'"""
+        
+    coin = [0]*23
+    for string in matrix_of_events:
+        string_counter = 0
+        for item in string:
+            if item != '':
+                string_counter += 1
+        coin[string_counter] += 1
+    for i in range(len(coin)):
+        print("coins: {}\tevents: {}\n".format(i, coin[i])) 
+# =============================================================================
+#
+# =============================================================================
+
+def list_of_tail_files(day_directory, list_of_BSM, tail):
+    tail_files = []
+    for BSM in list_of_BSM:
+        BSM_name = "{}{}/".format(
+            day_directory,
+            BSM)
+        new_tail_file = BSM_name + tools.directory_objects_parser(
+            BSM_name,
+            tools.TAIL_FILE_REGULAR_PATTERN + tail).split()[0]
+        tail_files.append(new_tail_file)
+    return tail_files
+# =============================================================================
+#
+# =============================================================================
+
+def fill_the_matrix_of_events(matrix_of_events, tail_files, tail, start_time):
+
+    chunk_size = 282
+    tail_files_counter = 0
+    for tail_file in tail_files:
+        print("Tail file  {}  amplitudes collecting...".format(tail_file))
+        tail_file = tools.make_BSM_file_temp(tail_file) + '.wfp'
+        with open(tail_file, 'rb') as tail_file:
+            chunk = tail_file.read(chunk_size)
+            while chunk:
+                head_array = tools.unpacked_from_bytes('hhii', chunk[:12])
+#            data_type_id = head_array[0]
+#            data_chunk_size = head_array[1]
+                num_event_1 = head_array[2]
+#            num_event_2 = head_array[3]
+                maroc_number = tools.unpacked_from_bytes('h', chunk[20:22])[0]
+                time_array = tools.unpacked_from_bytes('hhhh', chunk[12:20])
+                ns = (time_array[0] & 0x7f)*10
+                mks = (time_array[0] & 0xff80) >> 7
+                mks |= (time_array[1] & 1) << 9
+                mls = (time_array[1] & 0x7fe) >> 11
+                s = (time_array[1] & 0xf800) >> 11
+                s |= (time_array[2] & 1) << 5
+                m = (time_array[2] & 0x7e) >> 1
+                h = (time_array[2] & 0xf80) >> 7
+                time_string = "{}:{}:{}.{}.{}.{}".format(h, m, s, mls, mks, ns)
+                result_array = tools.unpacked_from_bytes('fBB'*32, chunk[24:-4])
+                result_string_ampls = '\t'.join([str(x) for x in result_array])
+                matrix_of_events[num_event_1][maroc_number] =\
+                    "{}\t{}\t{}".format(
+                        maroc_number,
+                        time_string,
+                        result_string_ampls)
+                chunk = tail_file.read(chunk_size)
+
+        tail_files_counter += 1
+        tools.syprogressbar(
+            tail_files_counter,
+            len(tail_files),
+            u'\u24BB',
+            "tail files {} amplitudes collecting".format(tail),
+            start_time)
+
+    return matrix_of_events
+# =============================================================================
+#
+# =============================================================================
+
+def create_summary_file_for_tail(tail, tail_max_min_list, start_time,
+                                 list_of_BSM, day_directory,
+                                 tails_counter, list_of_tails):
+
+    matrix_of_events = [['']*22 for
+                        i in range(tail_max_min_list[1] + 1 - tail_max_min_list[0])]
+
+    print("\nFiles list for tail  {}  from  {}  are creating...".format(tail, day_directory))
+    tail_files = list_of_tail_files(day_directory, list_of_BSM, tail)
+    print("Event matrix for tail  {}  from  {}  are creating...".format(tail, day_directory))
+    matrix_of_events = fill_the_matrix_of_events(matrix_of_events, tail_files, tail, start_time)
+    print("Cleaning the event matrix for tail  {}  from  {}  for 0-coincidences events...".format(tail, day_directory))
+    before = len(matrix_of_events)
+    matrix_of_events = clean_the_matrix_of_events(matrix_of_events)
+    after = len(matrix_of_events)
+    print("DELETED  {:.3f}% events".format((before - after)/before*100))
+    print("Out file for  {}  tail from  {}  are filling...".format(tail, day_directory))
+    with open(day_directory + tail + '.out', 'w+') as out_tail_file:
+        for i in range(len(matrix_of_events)):
+            out_tail_file.write(
+                "Event_number\t{}in tail_files\t{}for the\t{}\n".format(
+                    i, tail, day_directory))
+            for j in range(len(matrix_of_events[i])):
+                out_tail_file.write("{}\n".format(matrix_of_events[i][j]))
+            out_tail_file.write('\n')
+
+    tools.syprogressbar(
+        tails_counter,
+        len(list_of_tails),
+        u'\u24C9',
+        "creating summary files for tails",
+        start_time)
+
+    print("Statistics for tail {} from {} are calculating...".format(tail, day_directory))
+    print_statistics_for_matrix_of_events(matrix_of_events)
+# =============================================================================
+#
+# =============================================================================
 
 def fill_the_summary_files(dict_of_days, start_time):
-    """Fill the final summary files xith events named (tail).sum.
+    """Fill the final summary files with events named (tail).sum.
 
     Here each existed tail.sum file is being filled by cleaned amplitudes.
     For each file function runs through all (22) repacking and cleaned data
     files with this tail in this day directory. For each data file function
     one by one reads numbers of events. Each block of data function puts to
-    the correspondent place in tail.sum file. This place is the N_1-th string
+    the correspondent place in (tail).sum file. This place is the N_1-th string
     in N_2-th blank, where N_1 - BSM number, N_2 - event number. So, this
     string in the tail.sum file will contain exatly amplitudes of THIS BSM in
     THIS event.
-    Finally each tail.sum file contains full information about every event:
-    number, and amplitudes of every BSM, also the time of event in every BSM
-    and trigger-status and ignore-status of every channel in every BSM."""
+    Finally each tail.sum file contains full information about every event
+    from two minutes that corresponds to this tail: number, and amplitudes
+    of every BSM, also the time of event in every BSM and trigger-status
+    and ignore-status of every channel in every BSM."""
 
-    chunk_size = 282
     print("The summary files of events are fillng by data...")
     list_of_tails = []
     for day_directory, tail_dict in dict_of_days.items():
@@ -367,86 +515,59 @@ def fill_the_summary_files(dict_of_days, start_time):
         tails_counter = 0
         for tail in list_of_tails:
             print("The {} is analizyng...".format(tail))
-            matrix_of_events = [['']*22 for
-                                i in range(
-                                    tail_max_min_list[1] + 1 - tail_max_min_list[0])]
-
-            tail_files = []
-            print("Tail files list are creating...")
-            for BSM in list_of_BSM:
-                BSM_name = day_directory + BSM + '/'
-                new_tail_file = BSM_name + tools.directory_objects_parser(
-                    BSM_name, tools.TAIL_FILE_REGULAR_PATTERN + tail).split()[0]
-                tail_files.append(new_tail_file)
-
-            tail_files_counter = 0
-            for tail_file in tail_files:
-                print("Tail file  {}  is analizyng...".format(tail_file))
-                tail_file = tools.make_BSM_file_temp(tail_file) + '.wfp'
-                with open(tail_file, 'rb') as tail_file:
-                    chunk = tail_file.read(chunk_size)
-                    while chunk:
-                        head_array = tools.unpacked_from_bytes('hhii', chunk[:12])
-#                        data_type_id = head_array[0]
-#                        data_chunk_size = head_array[1]
-                        num_event_1 = head_array[2]
-#                        num_event_2 = head_array[3]
-                        maroc_number = tools.unpacked_from_bytes('h', chunk[20:22])[0]
-                        time_array = tools.unpacked_from_bytes('hhhh', chunk[12:20])
-                        ns = (time_array[0] & 0x7f)*10
-                        mks = (time_array[0] & 0xff80) >> 7
-                        mks |= (time_array[1] & 1) << 9
-                        mls = (time_array[1] & 0x7fe) >> 11
-                        s = (time_array[1] & 0xf800) >> 11
-                        s |= (time_array[2] & 1) << 5
-                        m = (time_array[2] & 0x7e) >> 1
-                        h = (time_array[2] & 0xf80) >> 7
-                        time_string = "{}:{}:{}.{}.{}.{}".format(h, m, s, mls, mks, ns)
-                        result_array = tools.unpacked_from_bytes('fBB'*32, chunk[24:-4])
-                        result_string_ampls = '\t'.join([str(x) for x in result_array])
-                        matrix_of_events[num_event_1][maroc_number] =\
-                        "{}\t{}\t{}".format(
-                            maroc_number,
-                            time_string,
-                            result_string_ampls)
-                        chunk = tail_file.read(chunk_size)
-            print("Out file for {}-tails are filling for the {}...".format(
-                tail,
-                day_directory))
-            with open(day_directory + tail + '.out', 'w+') as out_tail_file:
-                for i in range(len(matrix_of_events)):
-                    out_tail_file.write(
-                        "Event_number\t{}in tail_files\t{}for the\t{}\n".format(
-                            i,
-                            tail,
-                            day_directory))
-                    for j in range(len(matrix_of_events[i])):
-                        out_tail_file.write("{}\n".format(matrix_of_events[i][j]))
-                    out_tail_file.write('\n')
-                tail_files_counter += 1
-                tools.syprogressbar(
-                    tail_files_counter,
-                    len(tail_files),
-                    u'\u24BB',
-                    "tail files {} amplitudes collecting".format(tail))
             tails_counter += 1
-            tools.syprogressbar(
-                tails_counter,
-                len(list_of_tails),
-                u'\u24C9',
-                "creating summary files for tails")
-
-            print("Statistics for tail {} are calculating...".format(tail))
-            bsm = [0]*22
-            for i in range(len(matrix_of_events)):
-                current_event_ampls = []
-                for j in range(len(matrix_of_events[i])):
-                    if matrix_of_events[i][j] != '':
-                        current_event_ampls.append(1)
-                        bsm[len(current_event_ampls)] += 1
-            for i in range(len(bsm)):
-                print("coins: {}\tevents: {}\n".format(i, bsm[i]))
-
+            create_summary_file_for_tail(tail, tail_max_min_list, start_time,
+                                         list_of_BSM, day_directory,
+                                         tails_counter, list_of_tails)
         print("The summary files for  {}  have been created".format(day_directory))
         print(tools.time_check(start_time))
     print(tools.time_check(start_time))
+# =============================================================================
+#
+# =============================================================================
+
+def dict_of_num_min_max_in_tail_1(tail, files_list, day):
+    """Find minimum and maximum event number from one tail from one day.
+
+    Takes one tail from one day in format '001', '002' etc. Then searches
+    for all the corresponding tail files (22 in general case). Runs through
+    each of them, reads their event numbers.
+    Finally returns list with two values: minimum event number for all this
+    files and the maximum one."""
+
+    print("Evevt numbers range in tail {} are finding out...".format(tail))
+    chunk_size = 282
+    num_max, num_min = 0, 0
+    for file in files_list:
+        file = tools.check_and_cut_the_tail(file)
+        day_of_this_file = file[:-18]
+        if day_of_this_file == day:
+            file = file[:-12] + "." + file[-12:-3] + tail + '.wfp'
+            with open(file, 'rb') as wfp_file:
+                chunk = wfp_file.read(chunk_size)
+                num_ev_bytes = chunk[4:8]
+                num_ev = tools.unpacked_from_bytes(
+                    'I', num_ev_bytes)[0]
+                if num_ev < num_min:
+                    num_min = num_ev
+                while chunk:
+                    next_chunk = wfp_file.read(chunk_size)
+                    if next_chunk: chunk = next_chunk
+                    else: break
+                num_ev_bytes = chunk[4:8]
+                num_ev = tools.unpacked_from_bytes(
+                    'I', num_ev_bytes)[0]
+                if num_ev > num_max:
+                    num_max = num_ev
+
+    return [num_min, num_max]
+# =============================================================================
+#
+# =============================================================================
+
+def clean_the_matrix_of_events(matrix_of_events):
+    empty_event = ['']*22
+    return [value for value in matrix_of_events if value != empty_event]
+# =============================================================================
+#
+# =============================================================================

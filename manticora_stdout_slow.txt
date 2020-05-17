@@ -1,0 +1,1020 @@
+_______________________________________Manticora 1.3 SLOW mode_______________________________________
+
+
+Mess destroying...
+
+Time from the start:
+0 h  0 m  0 s
+
+Input card have been read.
+The list of files to process are compiling...
+The list of files to process was made. It's in the script directory under the name  .files_list.txt
+Parsing finished.
+
+Time from the start:
+0 h  0 m  0 s
+
+
+Start to process...
+
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 1%
+[Ⓑ__________________________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 2%
+[ⒷⒷ_________________________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 3%
+[ⒷⒷⒷ________________________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 4%
+[ⒷⒷⒷⒷ_______________________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 5%
+[ⒷⒷⒷⒷⒷ______________________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 6%
+[ⒷⒷⒷⒷⒷⒷ_____________________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 7%
+[ⒷⒷⒷⒷⒷⒷⒷ____________________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 9%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷ__________________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/28107008.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 10%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_________________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/28107009.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 11%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ________________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/28107010.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 12%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_______________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/28107011.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 13%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ______________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/28107012.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 14%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_____________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/28107013.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 15%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ____________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/28107014.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 17%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ__________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/28107015.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 18%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/28107016.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 19%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/28107017.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 20%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_______________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/28107018.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 21%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ______________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/28107019.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 22%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_____________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/28107020.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 23%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ____________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/28107021.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 25%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ___________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/28107022.003 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 26%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 27%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 28%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_______________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 29%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ______________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 30%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_____________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 31%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ____________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 32%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ___________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 34%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/28107008.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 35%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ________________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/28107009.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 36%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_______________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/28107010.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 37%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ______________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/28107011.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 38%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_____________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/28107012.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 39%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ____________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/28107013.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 40%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ___________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/28107014.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 42%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/28107015.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 43%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ________________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/28107016.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 44%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_______________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/28107017.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 45%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ______________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/28107018.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 46%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_____________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/28107019.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 47%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ____________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/28107020.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 48%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ___________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/28107021.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 50%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ__________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/28107022.009 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 51%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ________________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 52%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_______________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 53%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ______________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 54%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_____________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 55%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ____________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 56%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ___________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 57%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ__________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 59%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ________________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/28107008.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 60%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_______________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/28107009.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 61%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ______________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/28107010.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 62%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_____________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/28107011.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 63%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ____________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/28107012.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 64%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ___________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/28107013.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 65%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ__________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/28107014.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 67%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ________________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/28107015.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 68%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_______________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/28107016.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 69%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ______________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/28107017.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 70%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_____________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/28107018.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 71%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ____________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/28107019.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 72%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ___________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/28107020.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 73%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ__________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/28107021.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 75%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_________________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/28107022.012 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 76%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_______________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.001 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 77%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ______________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.001 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 78%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_____________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.001 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 79%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ____________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.001 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 80%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ___________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.001 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 81%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ__________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.001 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 82%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_________________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.001 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 84%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_______________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/28107008.001 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 85%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ______________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/28107009.001 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 86%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_____________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/28107010.001 is processing now.
+Pedestal file exists.
+Cleaned files exists.
+
+Preparing binary files:
+
+Progress of preparing binary files: 87%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ____________]
+
+Time from the start:
+0 h  0 m  0 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/28107011.001 is processing now.

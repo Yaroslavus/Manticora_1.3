@@ -32,8 +32,8 @@ DAY_REGULAR_PATTERN_U = r"^\/\d{6}\.?\d{0,3}$"
 #
 # =============================================================================
 
-def syprogressbar(current_step, all_steps, symbol, operation):
-    """Progressbar to show status of any operation.
+def syprogressbar(current_step, all_steps, symbol, operation, start_time):
+    """Progressbar to show status of any operation and time from the start.
 
     Takes current step and number of all steps.
     Also takes symbol for progressbar and name
@@ -50,6 +50,7 @@ def syprogressbar(current_step, all_steps, symbol, operation):
         int(current_step/all_steps*100)*symbol,
         int((all_steps-current_step)/all_steps*100)*"_",
         "]"))
+    print(time_check(start_time))
 # =============================================================================
 #
 # =============================================================================
@@ -68,6 +69,7 @@ def is_preprocessing_needed(set_1, start_time):
             "The list of files to process was made.\
             It's in the script directory under the name",
             ".files_list.txt"))
+        print(time_check(start_time))
         system_exit()
     elif set_1 == "3":
         print("The list of temporary files are compiling...")
@@ -98,6 +100,7 @@ def is_preprocessing_needed(set_1, start_time):
         print("{} {}".format(
             "The list of temporary files was made.",
             "It's in the script directory under the name .mess.txt"))
+        print(time_check(start_time))
         system_exit()
 #    else:
 #        print("ERROR: SET_1 IS WRONG!")
@@ -133,7 +136,7 @@ def mess_destroyer(start_time):
     preprocessing"""
 
     print("Mess destroying...")
-    
+
     if is_exist(SCRIPT_DIRECTORY + "/.mess.txt"):
         with open(".mess.txt", "r") as mess_f:
             for line in mess_f.readlines():
@@ -151,6 +154,7 @@ def mess_destroyer(start_time):
             "Mess destroying was not produces.",
             "The file '.mess.txt' does not exist in the script directory."))
     print(time_check(start_time))
+#     rm ./BSM{01..22}/.*
 # =============================================================================
 #
 # =============================================================================
@@ -312,3 +316,6 @@ def system_exit():
     """Simple system exit"""
 
     sys.exit()
+# =============================================================================
+#
+# =============================================================================
