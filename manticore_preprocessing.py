@@ -331,7 +331,7 @@ def count_tails_range(start_time):
 # =============================================================================
 #
 # =============================================================================
-def print_statistics_for_matrix_of_events(matrix_of_events):
+def print_statistics_for_matrix_of_events(matrix_of_events, stat_file):
     """Print the coincidences statistics for every 2 minutes of data
     (for one tail). From 0_BSM events to 22_BSM events.
 
@@ -346,8 +346,10 @@ def print_statistics_for_matrix_of_events(matrix_of_events):
             if item != '':
                 string_counter += 1
         coin[string_counter] += 1
-    for i in range(len(coin)):
-        print("coins: {}\tevents: {}\n".format(i, coin[i]))
+    with open(stat_file, 'w+') as stat_file:
+        for i in range(len(coin)):
+            print("coins: {}\tevents: {}\n".format(i, coin[i]))
+            stat_file.write("coins: {}\tevents: {}\n".format(i, coin[i]))
 # =============================================================================
 #
 # =============================================================================
@@ -444,9 +446,9 @@ def create_summary_file_for_tail(tail, tail_max_min_list, start_time,
         u'\u24C9',
         "creating summary files for tails",
         start_time)
-
+    stat_file = day_directory + tail + '.stat'
     print("Statistics for tail {} from {} are calculating...".format(tail, day_directory))
-    print_statistics_for_matrix_of_events(matrix_of_events)
+    print_statistics_for_matrix_of_events(matrix_of_events, stat_file)
 # =============================================================================
 #
 # =============================================================================
