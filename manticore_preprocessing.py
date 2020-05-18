@@ -434,7 +434,7 @@ def create_summary_file_for_tail(tail, tail_max_min_list, start_time,
     with open(day_directory + tail + '.out', 'w+') as out_tail_file:
         for i in range(len(matrix_of_events)):
             out_tail_file.write(
-                "Event_number\t{}in tail_files\t{}for the\t{}\n".format(
+                "Event_number\t{}\tin_tail_files\t{}\tfor_the\t{}\n".format(
                     i, tail, day_directory))
             for j in range(len(matrix_of_events[i])):
                 out_tail_file.write("{}\n".format(matrix_of_events[i][j]))
