@@ -86,7 +86,7 @@ def to_process_mult(start_time):
     comes the BASH outstream through all binary files cleaning."""
 
     strings_to_write_to_mess_file = Manager().list()
-    procs = []
+    proceses = []
     with open('.files_list.txt', 'r') as file_of_files:
         number_of_files_to_process = len(file_of_files.readlines())
     with open(".files_list.txt", "r") as files_list:
@@ -95,11 +95,11 @@ def to_process_mult(start_time):
         for file_to_process in files_list:
             file_to_process = tools.check_and_cut_the_tail(
                 file_to_process)
-            proc = Process(
+            process = Process(
                 target=to_process_single_file_mult,
                 args=(file_to_process, strings_to_write_to_mess_file))
-            procs.append(proc)
-            proc.start()
+            processes.append(process)
+            process.start()
             print("\nPreparing binary files:\n")
             counter += 1
             tools.syprogressbar(
@@ -109,8 +109,8 @@ def to_process_mult(start_time):
                 "preparing binary files",
                 start_time)
             print("\n{} is processing now.".format(file_to_process))
-        for proc in procs:
-            proc.join()
+        for process in processes:
+            process.join()
     with open(".mess.txt", "a") as mess_file:
         for string in strings_to_write_to_mess_file:
             mess_file.write(string)
@@ -135,7 +135,7 @@ def fill_the_summary_files_mult(dict_of_days, start_time):
     and ignore-status of every channel in every BSM."""
 
     print("The summary files of events are fillng by data...")
-    procs = []
+    process = []
     list_of_tails = []
     for day_directory, tail_dict in dict_of_days.items():
         print("The day  {}  is analizyng...".format(day_directory))
@@ -148,17 +148,17 @@ def fill_the_summary_files_mult(dict_of_days, start_time):
             tail_max_min_list = max_min_list
             print("The total information about tail  {}  is compiling...".format(tail))
             tails_counter += 1
-            proc = Process(
+            process = Process(
                 target=manticore_preprocessing.create_summary_file_for_tail,
                 args=(tail, tail_max_min_list, start_time,
                       list_of_BSM, day_directory, tails_counter,
                       list_of_tails))
-            procs.append(proc)
-            proc.start()
+            process.append(proc)
+            proces.start()
         print("The summary files for  {}  have been created".format(day_directory))
         print(tools.time_check(start_time))
-        for proc in procs:
-            proc.join()
+        for process in processes:
+            process.join()
     print(tools.time_check(start_time))
 # =============================================================================
 #
@@ -179,7 +179,7 @@ def count_tails_range_mult(start_time):
     dict_of_max_min = Manager().dict()
     dict_of_days = {}
     tails_counter = 0
-    procs = []
+    process = []
     print("Evevt numbers range in parallel bsms are finding out...")
     with open('.files_list.txt', 'r') as files:
         files_list = files.readlines()
@@ -188,11 +188,11 @@ def count_tails_range_mult(start_time):
     for day in sorted(days_set):
         tails_set = manticore_preprocessing.set_of_tails(files_list, day)
         for tail in sorted(tails_set):
-            proc = Process(
+            process = Process(
                 target=dict_of_num_min_max_in_tail_mult,
                 args=(tail, files_list, day, dict_of_max_min))
-            procs.append(proc)
-            proc.start()
+            process.append(proc)
+            process.start()
             tails_counter += 1
             tools.syprogressbar(tails_counter,
                                 len(tails_set),
@@ -200,8 +200,8 @@ def count_tails_range_mult(start_time):
                                 "finding out of evevt numbers range in {} tail finished".format(
                                     tail),
                                 start_time)
-        for proc in procs:
-            proc.join()
+        for process in processes:
+            process.join()
         dict_of_days[day] = dict_of_max_min
         print(tools.time_check(start_time))
     print("Finding out of evevt numbers range in parallel bsms was finished.")
