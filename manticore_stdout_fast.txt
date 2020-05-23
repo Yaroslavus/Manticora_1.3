@@ -1,303 +1,7 @@
-_______________________________________Manticora 1.3 FAST mode_______________________________________
+_______________________________________manticore 1.3 FAST mode_______________________________________
 
 
 Mess destroying...
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107003.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107003.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107003.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107001.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107001.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107001.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107005.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107005.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107005.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107004.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107004.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107004.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107002.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107002.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107002.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107007.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107007.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107007.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107006.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107006.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107006.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107012.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107012.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107012.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107010.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107010.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107010.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107009.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107009.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107009.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107008.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107008.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107008.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107016.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107016.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107016.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107011.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107011.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107011.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107014.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107014.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107014.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107013.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107013.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107013.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107017.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107017.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107017.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107019.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107019.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107019.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107018.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107018.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107018.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107020.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107020.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107020.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107002.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107002.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107002.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107022.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107022.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107022.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107015.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107015.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107015.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107004.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107004.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107004.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107006.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107006.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107006.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107010.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107010.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107010.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107007.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107007.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107007.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107021.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107021.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107021.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107009.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107009.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107009.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107011.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107011.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107011.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107008.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107008.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107008.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107013.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107013.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107013.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107014.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107014.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107014.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107015.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107015.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107015.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107020.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107016.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107016.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107020.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107020.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107016.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107019.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107019.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107019.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107018.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107018.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107018.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107017.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107017.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107017.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107022.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107022.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107022.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107021.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107021.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107021.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/.28107006.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/.28107006.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/.28107004.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/.28107004.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/.28107006.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/.28107006.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/.28107006.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/.28107006.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/.28107007.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/.28107007.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/.28107004.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/.28107004.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/.28107006.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/.28107006.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/.28107004.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/.28107004.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/.28107004.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/.28107004.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/.28107005.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/.28107005.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/.28107007.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/.28107007.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/.28107007.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/.28107007.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/.28107007.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/.28107007.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/.28107003.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/.28107003.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/.28107003.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/.28107003.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/.28107003.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/.28107003.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/.28107005.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/.28107005.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/.28107003.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/.28107003.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/.28107005.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/.28107005.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/.28107005.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/.28107005.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/.28107017.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/.28107017.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/.28107017.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/.28107017.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/.28107017.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/.28107017.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/.28107017.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/.28107017.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/.28107001.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/.28107001.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/.28107018.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/.28107018.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/.28107001.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/.28107001.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/.28107018.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/.28107018.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/.28107001.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/.28107001.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/.28107018.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/.28107018.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/.28107018.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/.28107018.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/.28107002.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/.28107002.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/.28107002.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/.28107002.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/.28107002.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/.28107002.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/.28107001.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/.28107001.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/.28107016.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/.28107016.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/.28107002.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/.28107002.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/.28107016.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/.28107016.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/.28107016.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/.28107016.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/.28107016.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/.28107016.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/.28107020.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/.28107020.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/.28107020.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/.28107020.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/.28107020.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/.28107020.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/.28107020.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/.28107020.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/.28107022.012.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/.28107022.012.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/.28107022.009.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/.28107022.009.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/.28107022.001.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/.28107022.001.wfp	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/.28107022.003.hdr	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/.28107022.003.wfp	does not exist or was recorded with the mistake. Delete it manually!
 
 Time from the start:
 0 h  0 m  0 s
@@ -310,20 +14,10 @@ Parsing finished.
 Time from the start:
 0 h  0 m  0 s
 
+1024
 
 Start to process...
 
-
-Preparing binary files:
-
-Progress of preparing binary files: 1%
-[Ⓑ__________________________________________________________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.003 is processing now.
 
 Preparing binary files:
 
@@ -334,18 +28,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.003 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 3%
-[ⒷⒷⒷ________________________________________________________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.003 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.120 is processing now.
 
 Preparing binary files:
 
@@ -356,18 +39,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.003 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 5%
-[ⒷⒷⒷⒷⒷ______________________________________________________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.003 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.120 is processing now.
 
 Preparing binary files:
 
@@ -378,18 +50,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.003 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 7%
-[ⒷⒷⒷⒷⒷⒷⒷ____________________________________________________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.003 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.120 is processing now.
 
 Preparing binary files:
 
@@ -400,18 +61,9 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/28107008.003 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 10%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_________________________________________________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/28107009.003 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.120 is processing now.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.120	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.120	exists.
 
 Preparing binary files:
 
@@ -422,18 +74,9 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/28107010.003 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 12%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_______________________________________________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/28107011.003 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.120 is processing now.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.120	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.120	exists.
 
 Preparing binary files:
 
@@ -444,18 +87,9 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/28107012.003 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 14%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_____________________________________________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/28107013.003 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.120 is processing now.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.120	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.120	exists.
 
 Preparing binary files:
 
@@ -466,18 +100,11 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/28107014.003 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 17%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ__________________________________________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/28107015.003 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.120 is processing now.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.120	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.120	exists.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.120	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.120	exists.
 
 Preparing binary files:
 
@@ -488,18 +115,9 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/28107016.003 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 19%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ________________________________________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/28107017.003 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/28107008.120 is processing now.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.120	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.120	exists.
 
 Preparing binary files:
 
@@ -510,18 +128,9 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/28107018.003 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 21%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ______________________________________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/28107019.003 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/28107009.120 is processing now.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.120	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.120	exists.
 
 Preparing binary files:
 
@@ -532,18 +141,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/28107020.003 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 23%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ____________________________________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/28107021.003 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/28107010.120 is processing now.
 
 Preparing binary files:
 
@@ -554,18 +152,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/28107022.003 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 26%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_________________________________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.009 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/28107011.120 is processing now.
 
 Preparing binary files:
 
@@ -576,18 +163,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.009 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 28%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_______________________________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.009 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/28107012.120 is processing now.
 
 Preparing binary files:
 
@@ -598,18 +174,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.009 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 30%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_____________________________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.009 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/28107013.120 is processing now.
 
 Preparing binary files:
 
@@ -620,18 +185,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.009 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 32%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ___________________________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.009 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/28107014.120 is processing now.
 
 Preparing binary files:
 
@@ -642,18 +196,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/28107008.009 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 35%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ________________________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/28107009.009 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/28107015.120 is processing now.
 
 Preparing binary files:
 
@@ -664,18 +207,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/28107010.009 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 37%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ______________________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/28107011.009 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/28107016.120 is processing now.
 
 Preparing binary files:
 
@@ -686,18 +218,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/28107012.009 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 39%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ____________________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/28107013.009 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/28107017.120 is processing now.
 
 Preparing binary files:
 
@@ -708,18 +229,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/28107014.009 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 42%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_________________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/28107015.009 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/28107018.120 is processing now.
 
 Preparing binary files:
 
@@ -730,18 +240,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/28107016.009 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 44%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_______________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/28107017.009 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/28107019.120 is processing now.
 
 Preparing binary files:
 
@@ -752,18 +251,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/28107018.009 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 46%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_____________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/28107019.009 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/28107020.120 is processing now.
 
 Preparing binary files:
 
@@ -774,18 +262,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/28107020.009 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 48%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ___________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/28107021.009 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/28107021.120 is processing now.
 
 Preparing binary files:
 
@@ -796,18 +273,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/28107022.009 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 51%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ________________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.012 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/28107022.120 is processing now.
 
 Preparing binary files:
 
@@ -818,18 +284,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.012 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 53%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ______________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.012 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.137 is processing now.
 
 Preparing binary files:
 
@@ -840,18 +295,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.012 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 55%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ____________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.012 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.137 is processing now.
 
 Preparing binary files:
 
@@ -862,18 +306,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.012 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 57%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ__________________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.012 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.137 is processing now.
 
 Preparing binary files:
 
@@ -884,18 +317,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/28107008.012 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 60%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_______________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/28107009.012 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.137 is processing now.
 
 Preparing binary files:
 
@@ -906,18 +328,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/28107010.012 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 62%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_____________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/28107011.012 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.137 is processing now.
 
 Preparing binary files:
 
@@ -928,18 +339,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/28107012.012 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 64%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ___________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/28107013.012 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.137 is processing now.
 
 Preparing binary files:
 
@@ -950,18 +350,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/28107014.012 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 67%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ________________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/28107015.012 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.137 is processing now.
 
 Preparing binary files:
 
@@ -972,18 +361,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/28107016.012 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 69%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ______________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/28107017.012 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/28107008.137 is processing now.
 
 Preparing binary files:
 
@@ -994,18 +372,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/28107018.012 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 71%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ____________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/28107019.012 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/28107009.137 is processing now.
 
 Preparing binary files:
 
@@ -1016,18 +383,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/28107020.012 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 73%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ__________________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/28107021.012 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/28107010.137 is processing now.
 
 Preparing binary files:
 
@@ -1038,18 +394,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/28107022.012 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 76%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_______________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.001 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/28107011.137 is processing now.
 
 Preparing binary files:
 
@@ -1060,18 +405,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.001 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 78%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_____________________]
-
-Time from the start:
-0 h  0 m  0 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.001 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/28107012.137 is processing now.
 
 Preparing binary files:
 
@@ -1082,18 +416,7 @@ Time from the start:
 0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.001 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 80%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ___________________]
-
-Time from the start:
-0 h  0 m  1 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.001 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/28107013.137 is processing now.
 
 Preparing binary files:
 
@@ -1101,21 +424,10 @@ Progress of preparing binary files: 81%
 [ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ__________________]
 
 Time from the start:
-0 h  0 m  1 s
+0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.001 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 82%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_________________]
-
-Time from the start:
-0 h  0 m  1 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.001 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/28107014.137 is processing now.
 
 Preparing binary files:
 
@@ -1123,21 +435,10 @@ Progress of preparing binary files: 84%
 [ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_______________]
 
 Time from the start:
-0 h  0 m  1 s
+0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/28107008.001 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 85%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ______________]
-
-Time from the start:
-0 h  0 m  1 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/28107009.001 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/28107015.137 is processing now.
 
 Preparing binary files:
 
@@ -1145,21 +446,10 @@ Progress of preparing binary files: 86%
 [ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_____________]
 
 Time from the start:
-0 h  0 m  1 s
+0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/28107010.001 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 87%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ____________]
-
-Time from the start:
-0 h  0 m  1 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/28107011.001 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/28107016.137 is processing now.
 
 Preparing binary files:
 
@@ -1167,21 +457,133 @@ Progress of preparing binary files: 88%
 [ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ___________]
 
 Time from the start:
-0 h  0 m  1 s
+0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/28107012.001 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 89%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ__________]
-
-Time from the start:
-0 h  0 m  1 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/28107013.001 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/28107017.137 is processing now.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/28107016.120	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/28107016.120	exists.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/28107017.120	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/28107017.120	exists.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/28107020.120	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/28107020.120	exists.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/28107012.120	exists.
+Creating of the header...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.120.hdr
+Cleaning for pedestals...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.120.wfp
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/28107018.120	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/28107018.120	exists.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.137	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.137	exists.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.137	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.137	exists.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/28107022.120	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/28107022.120	exists.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.137	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.137	exists.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.137	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.137	exists.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.137	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.137	exists.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.137	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.137	exists.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.137	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.137	exists.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/28107017.137	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/28107017.137	exists.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/28107018.137	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/28107018.137	exists.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/28107010.120	exists.
+Creating of the header...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.120.hdr
+Cleaning for pedestals...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.120.wfp
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/28107011.120	exists.
+Creating of the header...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.120.hdr
+Cleaning for pedestals...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.120.wfp
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/28107009.120	exists.
+Creating of the header...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.120.hdr
+Cleaning for pedestals...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.120.wfp
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/28107012.137	exists.
+Creating of the header...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.137.hdr
+Cleaning for pedestals...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.137.wfp
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/28107019.120	exists.
+Creating of the header...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.120.hdr
+Cleaning for pedestals...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.120.wfp
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/28107008.120	exists.
+Creating of the header...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.120.hdr
+Cleaning for pedestals...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.120.wfp
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/28107011.137	exists.
+Creating of the header...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.137.hdr
+Cleaning for pedestals...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.137.wfp
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/28107009.137	exists.
+Creating of the header...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.137.hdr
+Cleaning for pedestals...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.137.wfp
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/28107010.137	exists.
+Creating of the header...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.137.hdr
+Cleaning for pedestals...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.137.wfp
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/28107015.137	exists.
+Creating of the header...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.137.hdr
+Cleaning for pedestals...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.137.wfp
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/28107014.120	exists.
+Creating of the header...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.120.hdr
+Cleaning for pedestals...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.120.wfp
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/28107015.120	exists.
+Creating of the header...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.120.hdr
+Cleaning for pedestals...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.120.wfp
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/28107008.137	exists.
+Creating of the header...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.137.hdr
+Cleaning for pedestals...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.137.wfp
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/28107021.120	exists.
+Creating of the header...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.120.hdr
+Cleaning for pedestals...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.120.wfp
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/28107013.120	exists.
+Creating of the header...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.120.hdr
+Cleaning for pedestals...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.120.wfp
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/28107013.137	exists.
+Creating of the header...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.137.hdr
+Cleaning for pedestals...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.137.wfp
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/28107014.137	exists.
+Creating of the header...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.137.hdr
+Cleaning for pedestals...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.137.wfp
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/28107016.137	exists.
+Creating of the header...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/.28107016.137.hdr
+Cleaning for pedestals...
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/.28107016.137.wfp
 
 Preparing binary files:
 
@@ -1189,21 +591,10 @@ Progress of preparing binary files: 90%
 [ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_________]
 
 Time from the start:
-0 h  0 m  1 s
+0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/28107014.001 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 92%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_______]
-
-Time from the start:
-0 h  0 m  1 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/28107015.001 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/28107018.137 is processing now.
 
 Preparing binary files:
 
@@ -1211,21 +602,10 @@ Progress of preparing binary files: 93%
 [ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ______]
 
 Time from the start:
-0 h  0 m  1 s
+0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/28107016.001 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 94%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_____]
-
-Time from the start:
-0 h  0 m  1 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/28107017.001 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/28107019.137 is processing now.
 
 Preparing binary files:
 
@@ -1233,21 +613,10 @@ Progress of preparing binary files: 95%
 [ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ____]
 
 Time from the start:
-0 h  0 m  1 s
+0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/28107018.001 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 96%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ___]
-
-Time from the start:
-0 h  0 m  1 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/28107019.001 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/28107020.137 is processing now.
 
 Preparing binary files:
 
@@ -1255,646 +624,24 @@ Progress of preparing binary files: 97%
 [ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ__]
 
 Time from the start:
-0 h  0 m  1 s
+0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/28107020.001 is processing now.
-
-Preparing binary files:
-
-Progress of preparing binary files: 98%
-[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_]
-
-Time from the start:
-0 h  0 m  1 s
-
-
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/28107021.001 is processing now.
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.009	exists.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/28107021.137 is processing now.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/28107020.137	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/28107020.137	exists.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/28107022.137	exists.
+Cleaned files for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/28107022.137	exists.
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/28107021.137	exists.
 Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/.28107006.009.hdr
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.137.hdr
 Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/.28107006.009.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.012	exists.
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.137.wfp
+Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/28107019.137	exists.
 Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/.28107006.012.hdr
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.137.hdr
 Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/.28107006.012.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/28107012.012	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.012.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.012.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.009	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/.28107004.009.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/.28107004.009.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107006.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107006.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107006.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/.28107006.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/.28107006.003.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/.28107006.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/.28107006.001.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107012.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107012.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107012.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.003.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/28107012.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.001.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107004.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107004.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107004.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/.28107004.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/.28107004.003.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.012	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/.28107004.012.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/.28107004.012.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/28107011.012	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.012.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.012.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/.28107004.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/.28107004.001.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/28107009.012	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.012.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.012.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107012.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107012.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107012.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.009.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.009.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107007.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107007.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107007.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/.28107007.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/.28107007.003.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/28107010.012	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.012.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.012.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/28107011.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.001.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.012	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/.28107007.012.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/.28107007.012.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107009.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107009.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107009.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.003.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/28107009.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.001.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107011.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107011.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107011.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.009.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.009.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107009.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107009.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107009.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.009.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.009.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107011.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107011.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107011.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.003.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107010.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107010.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107010.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.009.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.009.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107010.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107010.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107010.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.003.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/.28107007.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/.28107007.001.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.009	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/.28107003.009.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/.28107003.009.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107007.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107007.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107007.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/.28107007.009.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/.28107007.009.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/28107010.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.001.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.012	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/.28107003.012.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/.28107003.012.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107005.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107005.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107005.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/.28107005.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/.28107005.003.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/.28107005.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/.28107005.001.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107003.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107003.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107003.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/.28107003.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/.28107003.003.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/28107019.012	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.012.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.012.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/.28107003.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/.28107003.001.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107019.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107019.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107019.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.003.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107019.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107019.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107019.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.009.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.009.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/28107019.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.001.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.012	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/.28107005.012.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/.28107005.012.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.009	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/.28107005.009.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/.28107005.009.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107008.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107008.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107008.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.003.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/28107008.012	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.012.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.012.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107008.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107008.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107008.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.009.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.009.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/28107008.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.001.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/28107013.012	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.012.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.012.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/28107015.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.001.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/28107013.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.001.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107013.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107013.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107013.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.009.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.009.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/28107017.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/.28107017.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/.28107017.001.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107013.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107013.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107013.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.003.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107015.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107015.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107015.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.003.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107015.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107015.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107015.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.009.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.009.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/28107017.012	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/.28107017.012.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/.28107017.012.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/28107015.012	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.012.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.012.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107017.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107017.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107017.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/.28107017.009.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/.28107017.009.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107017.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107017.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107017.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/.28107017.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/.28107017.003.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107018.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107018.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107018.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/.28107018.009.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/.28107018.009.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107001.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107001.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107001.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/.28107001.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/.28107001.003.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/28107018.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/.28107018.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/.28107018.001.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/.28107001.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/.28107001.001.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/28107018.012	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/.28107018.012.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/.28107018.012.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107018.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107018.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107018.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/.28107018.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/.28107018.003.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/28107014.012	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.012.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.012.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107014.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107014.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107014.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.003.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.009	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/.28107001.009.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/.28107001.009.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/28107021.012	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.012.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.012.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/28107021.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.001.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107002.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107002.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107002.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/.28107002.009.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/.28107002.009.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107002.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107002.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107002.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/.28107002.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/.28107002.003.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107016.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107016.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107016.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/.28107016.009.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/.28107016.009.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/28107014.009	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.009.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.009.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.012	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/.28107001.012.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/.28107001.012.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/28107016.012	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/.28107016.012.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/.28107016.012.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.012	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/.28107002.012.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/.28107002.012.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/.28107002.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/.28107002.001.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107016.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107016.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107016.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/.28107016.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/.28107016.003.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/28107014.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.001.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107021.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107021.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107021.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.003.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/28107021.009	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.009.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.009.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/28107016.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/.28107016.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/.28107016.001.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107020.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107020.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107020.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/.28107020.009.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/.28107020.009.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107020.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107020.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107020.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/.28107020.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/.28107020.003.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/28107020.012	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/.28107020.012.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/.28107020.012.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107022.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107022.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107022.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/.28107022.009.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/.28107022.009.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/28107022.012	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/.28107022.012.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/.28107022.012.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/28107020.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/.28107020.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/.28107020.001.wfp
-Cleaning for pedestals
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107022.fpd
-Calculating pedestals sigmas...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107022.sgm
-Compiling file with channels to be ignored...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107022.ig
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/.28107022.003.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/.28107022.003.wfp
-Pedestal file for	/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/28107022.001	exists.
-Creating of the header...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/.28107022.001.hdr
-Cleaning for pedestals...
-Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/.28107022.001.wfp
+Creating of the report about temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.137.wfp
 
 Preparing binary files:
 
@@ -1902,970 +649,38 @@ Progress of preparing binary files: 100%
 [ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ]
 
 Time from the start:
-0 h  0 m  1 s
+0 h  0 m  0 s
 
 
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/28107022.001 is processing now.
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/28107022.137 is processing now.
+Filling the mess file by reports...
 Evevt numbers range in parallel bsms are finding out...
 Set of days have been created.
 Set of tails have been created.
-Progress of finding out of evevt numbers range in 001 tail finished: 25%
-[ⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂ___________________________________________________________________________]
-
-Time from the start:
-0 h  0 m 48 s
-
-Progress of finding out of evevt numbers range in 003 tail finished: 50%
+Progress of finding out of evevt numbers range in 120 tail finished: 50%
 [ⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂ__________________________________________________]
 
 Time from the start:
-0 h  0 m 48 s
+0 h  0 m  1 s
 
-Progress of finding out of evevt numbers range in 009 tail finished: 75%
-[ⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂ_________________________]
-
-Time from the start:
-0 h  0 m 48 s
-
-Evevt numbers range in tail 012 are finding out...
-Evevt numbers range in tail 001 are finding out...
-Evevt numbers range in tail 009 are finding out...
-Evevt numbers range in tail 003 are finding out...
-Progress of finding out of evevt numbers range in 012 tail finished: 100%
+Evevt numbers range in tail 120 are finding out...
+Evevt numbers range in tail 137 are finding out...
+Progress of finding out of evevt numbers range in 137 tail finished: 100%
 [ⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂ]
 
 Time from the start:
-0 h  0 m 48 s
+0 h  0 m  1 s
 
 
 Time from the start:
-0 h  0 m 50 s
+0 h  0 m  1 s
 
 Finding out of evevt numbers range in parallel bsms was finished.
 
 Time from the start:
-0 h  0 m 50 s
+0 h  0 m  1 s
 
 The summary files of events are fillng by data...
 The day  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  is analizyng...
-The total information about tail  012  is compiling...
-The total information about tail  001  is compiling...
-The total information about tail  009  is compiling...
-The total information about tail  003  is compiling...
-
-Files list for tail  001  from  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  are creating...
-Event matrix for tail  001  from  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  are creating...
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 4%
-[ⒻⒻⒻⒻ_______________________________________________________________________________________________]
-
-Time from the start:
-0 h  0 m 54 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 9%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻ__________________________________________________________________________________________]
-
-Time from the start:
-0 h  0 m 59 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 13%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ______________________________________________________________________________________]
-
-Time from the start:
-0 h  1 m  0 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 18%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_________________________________________________________________________________]
-
-Time from the start:
-0 h  1 m  0 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 22%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_____________________________________________________________________________]
-
-Time from the start:
-0 h  1 m  1 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 27%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ________________________________________________________________________]
-
-Time from the start:
-0 h  1 m  1 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 31%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ____________________________________________________________________]
-
-Time from the start:
-0 h  1 m  2 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/28107008.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 36%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_______________________________________________________________]
-
-Time from the start:
-0 h  1 m  3 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/28107009.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 40%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ___________________________________________________________]
-
-Time from the start:
-0 h  1 m  3 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/28107010.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 45%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ______________________________________________________]
-
-Time from the start:
-0 h  1 m  3 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/28107011.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 50%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ__________________________________________________]
-
-Time from the start:
-0 h  1 m  4 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/28107012.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 54%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_____________________________________________]
-
-Time from the start:
-0 h  1 m  4 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/28107013.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 59%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ________________________________________]
-
-Time from the start:
-0 h  1 m  6 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/28107014.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 63%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ____________________________________]
-
-Time from the start:
-0 h  1 m 11 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/28107015.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 68%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_______________________________]
-
-Time from the start:
-0 h  1 m 13 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/28107016.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 72%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ___________________________]
-
-Time from the start:
-0 h  1 m 20 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/28107017.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 77%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ______________________]
-
-Time from the start:
-0 h  1 m 23 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/28107018.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 81%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ__________________]
-
-Time from the start:
-0 h  1 m 27 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/28107019.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 86%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_____________]
-
-Time from the start:
-0 h  1 m 28 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/28107020.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 90%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_________]
-
-Time from the start:
-0 h  1 m 38 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/28107021.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 95%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ____]
-Files list for tail  003  from  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  are creating...
-Event matrix for tail  003  from  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  are creating...
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 4%
-[ⒻⒻⒻⒻ_______________________________________________________________________________________________]
-
-Time from the start:
-0 h  0 m 57 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 9%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻ__________________________________________________________________________________________]
-
-Time from the start:
-0 h  1 m  2 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 13%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ______________________________________________________________________________________]
-
-Time from the start:
-0 h  1 m  3 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 18%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_________________________________________________________________________________]
-
-Time from the start:
-0 h  1 m  3 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 22%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_____________________________________________________________________________]
-
-Time from the start:
-0 h  1 m  4 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 27%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ________________________________________________________________________]
-
-Time from the start:
-0 h  1 m  4 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 31%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ____________________________________________________________________]
-
-Time from the start:
-0 h  1 m  4 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/28107008.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 36%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_______________________________________________________________]
-
-Time from the start:
-0 h  1 m  6 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/28107009.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 40%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ___________________________________________________________]
-
-Time from the start:
-0 h  1 m  6 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/28107010.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 45%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ______________________________________________________]
-
-Time from the start:
-0 h  1 m  6 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/28107011.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 50%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ__________________________________________________]
-
-Time from the start:
-0 h  1 m  7 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/28107012.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 54%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_____________________________________________]
-
-Time from the start:
-0 h  1 m  7 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/28107013.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 59%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ________________________________________]
-
-Time from the start:
-0 h  1 m  9 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/28107014.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 63%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ____________________________________]
-
-Time from the start:
-0 h  1 m 14 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/28107015.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 68%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_______________________________]
-
-Time from the start:
-0 h  1 m 17 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/28107016.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 72%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ___________________________]
-
-Time from the start:
-0 h  1 m 23 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/28107017.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 77%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ______________________]
-
-Time from the start:
-0 h  1 m 25 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/28107018.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 81%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ__________________]
-
-Time from the start:
-0 h  1 m 30 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/28107019.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 86%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_____________]
-
-Time from the start:
-0 h  1 m 31 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/28107020.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 90%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_________]
-
-Time from the start:
-0 h  1 m 41 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/28107021.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 95%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ____]
-Files list for tail  009  from  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  are creating...
-Event matrix for tail  009  from  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  are creating...
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 4%
-[ⒻⒻⒻⒻ_______________________________________________________________________________________________]
-
-Time from the start:
-0 h  1 m  5 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 9%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻ__________________________________________________________________________________________]
-
-Time from the start:
-0 h  1 m 10 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 13%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ______________________________________________________________________________________]
-
-Time from the start:
-0 h  1 m 10 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 18%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_________________________________________________________________________________]
-
-Time from the start:
-0 h  1 m 11 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 22%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_____________________________________________________________________________]
-
-Time from the start:
-0 h  1 m 12 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 27%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ________________________________________________________________________]
-
-Time from the start:
-0 h  1 m 12 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 31%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ____________________________________________________________________]
-
-Time from the start:
-0 h  1 m 13 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/28107008.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 36%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_______________________________________________________________]
-
-Time from the start:
-0 h  1 m 15 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/28107009.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 40%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ___________________________________________________________]
-
-Time from the start:
-0 h  1 m 15 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/28107010.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 45%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ______________________________________________________]
-
-Time from the start:
-0 h  1 m 15 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/28107011.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 50%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ__________________________________________________]
-
-Time from the start:
-0 h  1 m 16 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/28107012.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 54%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_____________________________________________]
-
-Time from the start:
-0 h  1 m 16 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/28107013.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 59%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ________________________________________]
-
-Time from the start:
-0 h  1 m 18 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/28107014.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 63%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ____________________________________]
-
-Time from the start:
-0 h  1 m 22 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/28107015.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 68%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_______________________________]
-
-Time from the start:
-0 h  1 m 25 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/28107016.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 72%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ___________________________]
-
-Time from the start:
-0 h  1 m 31 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/28107017.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 77%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ______________________]
-
-Time from the start:
-0 h  1 m 34 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/28107018.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 81%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ__________________]
-
-Time from the start:
-0 h  1 m 37 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/28107019.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 86%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_____________]
-
-Time from the start:
-0 h  1 m 38 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/28107020.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 90%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_________]
-
-Time from the start:
-0 h  1 m 47 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/28107021.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 95%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ____]
-Files list for tail  012  from  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  are creating...
-Event matrix for tail  012  from  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  are creating...
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 4%
-[ⒻⒻⒻⒻ_______________________________________________________________________________________________]
-
-Time from the start:
-0 h  1 m  7 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 9%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻ__________________________________________________________________________________________]
-
-Time from the start:
-0 h  1 m 11 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 13%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ______________________________________________________________________________________]
-
-Time from the start:
-0 h  1 m 12 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 18%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_________________________________________________________________________________]
-
-Time from the start:
-0 h  1 m 12 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 22%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_____________________________________________________________________________]
-
-Time from the start:
-0 h  1 m 14 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 27%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ________________________________________________________________________]
-
-Time from the start:
-0 h  1 m 14 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 31%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ____________________________________________________________________]
-
-Time from the start:
-0 h  1 m 14 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/28107008.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 36%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_______________________________________________________________]
-
-Time from the start:
-0 h  1 m 16 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/28107009.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 40%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ___________________________________________________________]
-
-Time from the start:
-0 h  1 m 16 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/28107010.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 45%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ______________________________________________________]
-
-Time from the start:
-0 h  1 m 16 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/28107011.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 50%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ__________________________________________________]
-
-Time from the start:
-0 h  1 m 17 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/28107012.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 54%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_____________________________________________]
-
-Time from the start:
-0 h  1 m 17 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/28107013.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 59%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ________________________________________]
-
-Time from the start:
-0 h  1 m 19 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/28107014.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 63%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ____________________________________]
-
-Time from the start:
-0 h  1 m 22 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/28107015.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 68%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_______________________________]
-
-Time from the start:
-0 h  1 m 25 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/28107016.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 72%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ___________________________]
-
-Time from the start:
-0 h  1 m 32 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/28107017.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 77%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ______________________]
-
-Time from the start:
-0 h  1 m 35 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/28107018.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 81%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ__________________]
-
-Time from the start:
-0 h  1 m 39 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/28107019.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 86%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_____________]
-
-Time from the start:
-0 h  1 m 40 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/28107020.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 90%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_________]
-
-Time from the start:
-0 h  1 m 49 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/28107021.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 95%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ____]
-
-Time from the start:
-0 h  1 m 43 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/28107022.001  amplitudes collecting...
-Progress of tail files 001 amplitudes collecting: 100%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ]
-
-Time from the start:
-0 h  1 m 54 s
-
-Cleaning the event matrix for tail  001  from  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  for 0-coincidences events...
-DELETED  0.246% events
-Out file for  001  tail from  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  are filling...
-Progress of creating summary files for tails: 100%
-[ⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉ]
-
-Time from the start:
-0 h  2 m 22 s
-
-Statistics for tail 001 from /home/yaroslav/Yaroslavus_GitHub/DATA/281017/ are calculating...
-coins: 0	events: 0
-
-coins: 1	events: 257159
-
-coins: 2	events: 337
-
-coins: 3	events: 25
-
-coins: 4	events: 8
-
-coins: 5	events: 0
-
-coins: 6	events: 0
-
-coins: 7	events: 0
-
-coins: 8	events: 0
-
-coins: 9	events: 0
-
-coins: 10	events: 0
-
-coins: 11	events: 0
-
-coins: 12	events: 0
-
-coins: 13	events: 0
-
-coins: 14	events: 0
-
-coins: 15	events: 0
-
-coins: 16	events: 0
-
-coins: 17	events: 0
-
-coins: 18	events: 0
-
-coins: 19	events: 0
-
-coins: 20	events: 0
-
-coins: 21	events: 0
-
-coins: 22	events: 0
-
-
-
-Time from the start:
-0 h  1 m 46 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/28107022.003  amplitudes collecting...
-Progress of tail files 003 amplitudes collecting: 100%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ]
-
-Time from the start:
-0 h  1 m 58 s
-
-Cleaning the event matrix for tail  003  from  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  for 0-coincidences events...
-DELETED  67.072% events
-Out file for  003  tail from  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  are filling...
-Progress of creating summary files for tails: 100%
-[ⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉ]
-
-Time from the start:
-0 h  2 m 25 s
-
-Statistics for tail 003 from /home/yaroslav/Yaroslavus_GitHub/DATA/281017/ are calculating...
-coins: 0	events: 0
-
-coins: 1	events: 251407
-
-coins: 2	events: 335
-
-coins: 3	events: 28
-
-coins: 4	events: 16
-
-coins: 5	events: 0
-
-coins: 6	events: 0
-
-coins: 7	events: 0
-
-coins: 8	events: 0
-
-coins: 9	events: 0
-
-coins: 10	events: 0
-
-coins: 11	events: 0
-
-coins: 12	events: 0
-
-coins: 13	events: 0
-
-coins: 14	events: 0
-
-coins: 15	events: 0
-
-coins: 16	events: 0
-
-coins: 17	events: 0
-
-coins: 18	events: 0
-
-coins: 19	events: 0
-
-coins: 20	events: 0
-
-coins: 21	events: 0
-
-coins: 22	events: 0
-
-
-
-Time from the start:
-0 h  1 m 53 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/28107022.009  amplitudes collecting...
-Progress of tail files 009 amplitudes collecting: 100%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ]
-
-Time from the start:
-0 h  2 m  2 s
-
-Cleaning the event matrix for tail  009  from  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  for 0-coincidences events...
-DELETED  89.107% events
-Out file for  009  tail from  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  are filling...
-Progress of creating summary files for tails: 100%
-[ⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉ]
-
-Time from the start:
-0 h  2 m 27 s
-
-Statistics for tail 009 from /home/yaroslav/Yaroslavus_GitHub/DATA/281017/ are calculating...
-coins: 0	events: 0
-
-coins: 1	events: 247345
-
-coins: 2	events: 312
-
-coins: 3	events: 30
-
-coins: 4	events: 9
-
-coins: 5	events: 2
-
-coins: 6	events: 2
-
-coins: 7	events: 0
-
-coins: 8	events: 0
-
-coins: 9	events: 0
-
-coins: 10	events: 0
-
-coins: 11	events: 0
-
-coins: 12	events: 0
-
-coins: 13	events: 0
-
-coins: 14	events: 0
-
-coins: 15	events: 0
-
-coins: 16	events: 0
-
-coins: 17	events: 0
-
-coins: 18	events: 0
-
-coins: 19	events: 0
-
-coins: 20	events: 0
-
-coins: 21	events: 0
-
-coins: 22	events: 1
-
-
-
-Time from the start:
-0 h  1 m 56 s
-
-Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/28107022.012  amplitudes collecting...
-Progress of tail files 012 amplitudes collecting: 100%
-[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ]
-
-Time from the start:
-0 h  2 m  6 s
-
-Cleaning the event matrix for tail  012  from  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  for 0-coincidences events...
-DELETED  91.905% events
-Out file for  012  tail from  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  are filling...
-Progress of creating summary files for tails: 100%
-[ⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉ]
-
-Time from the start:
-0 h  2 m 31 s
-
-Statistics for tail 012 from /home/yaroslav/Yaroslavus_GitHub/DATA/281017/ are calculating...
-coins: 0	events: 0
-
-coins: 1	events: 243338
-
-coins: 2	events: 354
-
-coins: 3	events: 42
-
-coins: 4	events: 10
-
-coins: 5	events: 3
-
-coins: 6	events: 1
-
-coins: 7	events: 0
-
-coins: 8	events: 0
-
-coins: 9	events: 0
-
-coins: 10	events: 0
-
-coins: 11	events: 0
-
-coins: 12	events: 0
-
-coins: 13	events: 0
-
-coins: 14	events: 0
-
-coins: 15	events: 0
-
-coins: 16	events: 0
-
-coins: 17	events: 0
-
-coins: 18	events: 0
-
-coins: 19	events: 0
-
-coins: 20	events: 0
-
-coins: 21	events: 0
-
-coins: 22	events: 0
-
-The summary files for  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  have been created
-
-Time from the start:
-0 h  0 m 50 s
-
-
-Time from the start:
-0 h  2 m 32 s
-
-Mess destroying...
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107002.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107002.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107002.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107007.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107007.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107007.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107010.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107010.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107010.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107008.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107008.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107008.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107011.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107011.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107011.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107015.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107015.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107015.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107009.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107009.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107009.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107018.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107018.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107018.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107022.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107022.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107022.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107016.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107016.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107016.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107020.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107020.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107020.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107019.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107019.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107019.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107012.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107012.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107012.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107013.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107013.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107013.ig	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107017.fpd	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107017.sgm	does not exist or was recorded with the mistake. Delete it manually!
-/home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107017.ig	does not exist or was recorded with the mistake. Delete it manually!
-
-Time from the start:
-0 h  2 m 32 s
-
-
-All time for processing input data:
- 
-Time from the start:
-0 h  2 m 32 s
-
+The total information about tail  120  is compiling...
+The total information about tail  137  is compiling...

@@ -69,8 +69,8 @@ def is_preprocessing_needed(set_1, start_time):
         system_exit()
     elif set_1 == "3":
         print("The list of temporary files are compiling...")
-        with open(os.getcwd() + "/.files_list.txt", "r") as files_list:
-            with open(os.getcwd() + "/.mess.txt", "a") as mess_file:
+        with open(SCRIPT_DIRECTORY + "/.files_list.txt", "r") as files_list:
+            with open(SCRIPT_DIRECTORY + "/.mess.txt", "a") as mess_file:
                 for line in files_list:
                     line = check_and_cut_the_tail(line)
                     mess_file.write("{}  {}{}".format(
@@ -309,6 +309,14 @@ def system_exit():
     """Simple system exit"""
 
     sys.exit()
+# =============================================================================
+#
+# =============================================================================
+
+def max_number_of_opened_files_on_this_system():
+    """Returns limit for maximal number of opened files on the current machine."""
+
+    return int(os.popen('ulimit -n').read()[:-1])
 # =============================================================================
 #
 # =============================================================================

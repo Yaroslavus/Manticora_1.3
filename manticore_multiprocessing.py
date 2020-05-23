@@ -36,14 +36,14 @@ def to_process_single_file_mult(file_to_process, strings_to_write_to_mess_file):
         strings_to_write_to_mess_file.append(
             "Made temporary file:  {}.fpd\n".format(
                 tools.make_PED_file_temp(file_to_process)))
-        print("Made temporary file:  {}.fpd".format(
+        print("Creating of the report about temporary file:  {}.fpd".format(
             tools.make_PED_file_temp(file_to_process)))
 #           .sgm - sigmas of pedestals
         print("Calculating pedestals sigmas...")
         strings_to_write_to_mess_file.append(
             "Made temporary file:  {}.sgm\n".format(
                 tools.make_PED_file_temp(file_to_process)))
-        print("Made temporary file:  {}.sgm".format(
+        print("Creating of the report about temporary file:  {}.sgm".format(
             tools.make_PED_file_temp(file_to_process)))
 #           .ig ignore status from sigma
 #           (PED_sigma < PED_average + 3*sigma_sigma)
@@ -51,7 +51,7 @@ def to_process_single_file_mult(file_to_process, strings_to_write_to_mess_file):
         strings_to_write_to_mess_file.append(
             "Made temporary file:  {}.ig\n".format(
                 tools.make_PED_file_temp(file_to_process)))
-        print("Made temporary file:  {}.ig".format(
+        print("Creating of the report about temporary file:  {}.ig".format(
             tools.make_PED_file_temp(file_to_process)))
     else: print("Pedestal file for\t{}\texists.".format(file_to_process))
     if (tools.is_exist(tools.make_BSM_file_temp(file_to_process) + ".wfp") or
@@ -63,14 +63,14 @@ def to_process_single_file_mult(file_to_process, strings_to_write_to_mess_file):
         strings_to_write_to_mess_file.append(
             "Made temporary file:  {}.hdr\n".format(
                 tools.make_BSM_file_temp(file_to_process)))
-        print("Made temporary file:  {}.hdr".format(
+        print("Creating of the report about temporary file:  {}.hdr".format(
             tools.make_BSM_file_temp(file_to_process)))
 #           .wfp - amplitudes minus fine pedestals
         print("Cleaning for pedestals...")
         strings_to_write_to_mess_file.append(
             "Made temporary file:  {}.wfp\n".format(
                 tools.make_BSM_file_temp(file_to_process)))
-        print("Made temporary file:  {}.wfp".format(
+        print("Creating of the report about temporary file:  {}.wfp".format(
             tools.make_BSM_file_temp(file_to_process)))
     else: print("Cleaned files for\t{}\texists.".format(file_to_process))
 # =============================================================================
@@ -85,33 +85,47 @@ def to_process_mult(start_time):
     In addition provides all needed interface. Exactly from here
     comes the BASH outstream through all binary files cleaning."""
 
+    number_of_hidden_files_for_one_raw_file = 5
+    max_number_of_simultaneously_opened_files =\
+    tools.max_number_of_opened_files_on_this_system()//(number_of_hidden_files_for_one_raw_file*5)
+    print(tools.max_number_of_opened_files_on_this_system())
     strings_to_write_to_mess_file = Manager().list()
-    proceses = []
+    processes = []
     with open('.files_list.txt', 'r') as file_of_files:
-        number_of_files_to_process = len(file_of_files.readlines())
-    with open(".files_list.txt", "r") as files_list:
+        files_list = file_of_files.readlines()
+        number_of_files_to_process = len(files_list)
+#    with open(".files_list.txt", "r") as files_list:
         print("\nStart to process...\n")
-        counter = 0
-        for file_to_process in files_list:
-            file_to_process = tools.check_and_cut_the_tail(
-                file_to_process)
-            process = Process(
-                target=to_process_single_file_mult,
-                args=(file_to_process, strings_to_write_to_mess_file))
-            processes.append(process)
-            process.start()
-            print("\nPreparing binary files:\n")
-            counter += 1
-            tools.syprogressbar(
-                counter,
-                number_of_files_to_process,
-                u'\u24B7',
-                "preparing binary files",
-                start_time)
-            print("\n{} is processing now.".format(file_to_process))
-        for process in processes:
-            process.join()
+        files_counter = 0
+        chunk_counter = 0
+        chunk_to_process =\
+        files_list[max_number_of_simultaneously_opened_files*chunk_counter:max_number_of_simultaneously_opened_files*(chunk_counter + 1)]
+        while chunk_to_process:
+#            print(len(chunk_to_process))
+            for file_to_process in chunk_to_process:
+                file_to_process = tools.check_and_cut_the_tail(
+                    file_to_process)
+                process = Process(
+                    target=to_process_single_file_mult,
+                    args=(file_to_process, strings_to_write_to_mess_file))
+                processes.append(process)
+                process.start()
+                print("\nPreparing binary files:\n")
+                files_counter += 1
+                tools.syprogressbar(
+                    files_counter,
+                    number_of_files_to_process,
+                    u'\u24B7',
+                    "preparing binary files",
+                    start_time)
+                print("\n{} is processing now.".format(file_to_process))
+            for process in processes:
+                process.join()
+            chunk_counter += 1
+            chunk_to_process =\
+            files_list[max_number_of_simultaneously_opened_files*chunk_counter:max_number_of_simultaneously_opened_files*(chunk_counter + 1)]
     with open(".mess.txt", "a") as mess_file:
+        print("Filling the mess file by reports...")
         for string in strings_to_write_to_mess_file:
             mess_file.write(string)
 # =============================================================================
@@ -135,7 +149,7 @@ def fill_the_summary_files_mult(dict_of_days, start_time):
     and ignore-status of every channel in every BSM."""
 
     print("The summary files of events are fillng by data...")
-    process = []
+    processes = []
     list_of_tails = []
     for day_directory, tail_dict in dict_of_days.items():
         print("The day  {}  is analizyng...".format(day_directory))
@@ -153,8 +167,8 @@ def fill_the_summary_files_mult(dict_of_days, start_time):
                 args=(tail, tail_max_min_list, start_time,
                       list_of_BSM, day_directory, tails_counter,
                       list_of_tails))
-            process.append(proc)
-            proces.start()
+            processes.append(process)
+            process.start()
         print("The summary files for  {}  have been created".format(day_directory))
         print(tools.time_check(start_time))
         for process in processes:
@@ -179,7 +193,7 @@ def count_tails_range_mult(start_time):
     dict_of_max_min = Manager().dict()
     dict_of_days = {}
     tails_counter = 0
-    process = []
+    processes = []
     print("Evevt numbers range in parallel bsms are finding out...")
     with open('.files_list.txt', 'r') as files:
         files_list = files.readlines()
@@ -191,7 +205,7 @@ def count_tails_range_mult(start_time):
             process = Process(
                 target=dict_of_num_min_max_in_tail_mult,
                 args=(tail, files_list, day, dict_of_max_min))
-            process.append(proc)
+            processes.append(process)
             process.start()
             tails_counter += 1
             tools.syprogressbar(tails_counter,
