@@ -10,10 +10,10 @@ if [ -z "$1" ]; then
 elif [ $1 == -f ]; then
 #    max_number_of_processes_is_possible_in_system="$(ulimit -n)"
 #    echo "ulimit -n 8192"
-    python3 manticore_main_fast.py | tee manticore_stdout_fast.txt
+    python3 manticore_main_fast.py |& tee manticore_stdout_fast.log
 #    echo "ulimit -n $max_number_of_processes_is_possible_in_system"
 elif [ $1 == -s ]; then
-    python3 manticore_main_slow.py | tee manticore_stdout_slow.txt
+    python3 manticore_main_slow.py |& tee manticore_stdout_slow.log
 else
     echo "WRONG FLAG!!! Use ${bold}./manticore.sh'${normal} with one of the flags: ${bold}-f${normal} (for fast preprocessing using all kernels) or ${bold}-s${normal} (for slow preprocessing using one kernel)"
 fi

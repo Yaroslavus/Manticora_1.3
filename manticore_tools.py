@@ -13,6 +13,11 @@ import re
 import struct
 import math
 
+MAX_NUMBER_OF_OPENED_FILES_ON_THIS_SYSTEM = int(os.popen('ulimit -n').read()[:-1])
+NUMBER_OF_HIDDEN_FILES_FOR_ONE_RAW_FILE = 5
+MAX_NUMBER_OF_SIMULTANEOUSLY_OPENED_FILES =\
+MAX_NUMBER_OF_OPENED_FILES_ON_THIS_SYSTEM//NUMBER_OF_HIDDEN_FILES_FOR_ONE_RAW_FILE
+
 SUM_FILE_PATTERN = r'\d{3}\.sum$'
 SCRIPT_DIRECTORY = os.getcwd()
 RAW_FILE_REGULAR_PATTERN = r"\d{8}\.\d{3}$"
@@ -107,7 +112,7 @@ def data_dir():
 
     Opens the configure file which contains the absolute path
     to the directory with the IACT data. And returns it."""
-    with open("data_directory.config", "r") as dir_config:
+    with open("data_directory.conf", "r") as dir_config:
         return dir_config.readlines(1)[0]
 # =============================================================================
 #
@@ -199,14 +204,13 @@ def read_input_card():
     (files, lone BSMs, days etc.). Returns all of them outside to the
     manticore_main module."""
 
-    with open("input_card.txt", "r") as input_card:
+    with open("input_card.conf", "r") as input_card:
         ans_list = []
         for line in input_card.readlines():
             if line[0] != '#':
                 ans_list.append(line[:-1])
     print("Input card have been read.")
     return [ans for ans in ans_list]
-
 # =============================================================================
 #
 # =============================================================================
@@ -247,9 +251,7 @@ def check_and_cut_the_tail(line):
     mistakes. You will think that it is magic. So it is better
     to check and cut it on the very first step."""
 
-    if line[-1] == '\n':
-        line = line[:-1]
-    return line
+    return line[:-1] if line[-1] == '\n' else line
 # =============================================================================
 #
 # =============================================================================
@@ -309,14 +311,6 @@ def system_exit():
     """Simple system exit"""
 
     sys.exit()
-# =============================================================================
-#
-# =============================================================================
-
-def max_number_of_opened_files_on_this_system():
-    """Returns limit for maximal number of opened files on the current machine."""
-
-    return int(os.popen('ulimit -n').read()[:-1])
 # =============================================================================
 #
 # =============================================================================

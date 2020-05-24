@@ -1,0 +1,736 @@
+_______________________________________manticore 1.3 SLOW mode_______________________________________
+
+
+Mess destroying...
+
+Time from the start:
+0 h  0 m  0 s
+
+Input card have been read.
+The list of files to process are compiling...
+The list of files to process was made. It's in the script directory under the name  .files_list.txt
+Parsing finished.
+
+Time from the start:
+0 h  0 m  0 s
+
+
+Start to process...
+
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107001.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107001.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107001.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/.28107001.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/.28107001.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 4%
+[ⒷⒷⒷⒷ_______________________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  1 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.050 is processing now.
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107002.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107002.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107002.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/.28107002.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/.28107002.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 9%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷ__________________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  1 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.050 is processing now.
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107003.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107003.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107003.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/.28107003.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/.28107003.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 13%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ______________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  1 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.050 is processing now.
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107004.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107004.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107004.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/.28107004.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/.28107004.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 18%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  1 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.050 is processing now.
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107005.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107005.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107005.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/.28107005.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/.28107005.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 22%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_____________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  1 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.050 is processing now.
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107006.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107006.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107006.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/.28107006.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/.28107006.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 27%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ________________________________________________________________________]
+
+Time from the start:
+0 h  0 m  1 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.050 is processing now.
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107007.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107007.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107007.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/.28107007.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/.28107007.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 31%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ____________________________________________________________________]
+
+Time from the start:
+0 h  0 m  1 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.050 is processing now.
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107008.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107008.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107008.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/.28107008.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 36%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_______________________________________________________________]
+
+Time from the start:
+0 h  0 m  1 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/28107008.050 is processing now.
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107009.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107009.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107009.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/.28107009.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 40%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ___________________________________________________________]
+
+Time from the start:
+0 h  0 m  1 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/28107009.050 is processing now.
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107010.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107010.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107010.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/.28107010.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 45%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ______________________________________________________]
+
+Time from the start:
+0 h  0 m  2 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/28107010.050 is processing now.
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107011.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107011.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107011.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/.28107011.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 50%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ__________________________________________________]
+
+Time from the start:
+0 h  0 m  2 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/28107011.050 is processing now.
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107012.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107012.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107012.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/.28107012.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 54%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_____________________________________________]
+
+Time from the start:
+0 h  0 m  2 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/28107012.050 is processing now.
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107013.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107013.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107013.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/.28107013.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 59%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ________________________________________]
+
+Time from the start:
+0 h  0 m  2 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/28107013.050 is processing now.
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107014.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107014.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107014.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/.28107014.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 63%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ____________________________________]
+
+Time from the start:
+0 h  0 m  2 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/28107014.050 is processing now.
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107015.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107015.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107015.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/.28107015.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 68%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_______________________________]
+
+Time from the start:
+0 h  0 m  2 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/28107015.050 is processing now.
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107016.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107016.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107016.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/.28107016.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/.28107016.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 72%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ___________________________]
+
+Time from the start:
+0 h  0 m  3 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/28107016.050 is processing now.
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107017.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107017.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107017.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/.28107017.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/.28107017.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 77%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ______________________]
+
+Time from the start:
+0 h  0 m  4 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/28107017.050 is processing now.
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107018.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107018.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107018.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/.28107018.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/.28107018.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 81%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ__________________]
+
+Time from the start:
+0 h  0 m  4 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/28107018.050 is processing now.
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107019.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107019.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107019.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/.28107019.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 86%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_____________]
+
+Time from the start:
+0 h  0 m  5 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/28107019.050 is processing now.
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107020.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107020.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107020.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/.28107020.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/.28107020.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 90%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ_________]
+
+Time from the start:
+0 h  0 m  6 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/28107020.050 is processing now.
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107021.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107021.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107021.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/.28107021.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 95%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ____]
+
+Time from the start:
+0 h  0 m  6 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/28107021.050 is processing now.
+Cleaning for pedestals
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107022.fpd
+Calculating pedestals sigmas...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107022.sgm
+Compiling file with channels to be ignored...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/PED/.28107022.ig
+Creating of the header...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/.28107022.050.hdr
+Cleaning for pedestals...
+Made temporary file:  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/.28107022.050.wfp
+
+Preparing binary files:
+
+Progress of preparing binary files: 100%
+[ⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷⒷ]
+
+Time from the start:
+0 h  0 m  7 s
+
+
+/home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/28107022.050 is processing now.
+Evevt numbers range in parallel bsms are finding out...
+Set of days have been created.
+Set of tails have been created.
+Evevt numbers range in tail 050 are finding out...
+Progress of finding out of evevt numbers range in 050 tail finished: 100%
+[ⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂⓂ]
+
+Time from the start:
+0 h  0 m  7 s
+
+
+Time from the start:
+0 h  0 m  7 s
+
+Finding out of evevt numbers range in parallel bsms was finished.
+
+Time from the start:
+0 h  0 m  7 s
+
+The summary files of events are fillng by data...
+The /home/yaroslav/Yaroslavus_GitHub/DATA/281017/ is analizyng...
+The 050 is analizyng...
+
+Files list for tail  050  from  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  are creating...
+Event matrix for tail  050  from  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  are creating...
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM01/28107001.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 4%
+[ⒻⒻⒻⒻ_______________________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m 22 s
+
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM02/28107002.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 9%
+[ⒻⒻⒻⒻⒻⒻⒻⒻⒻ__________________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m 22 s
+
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM03/28107003.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 13%
+[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ______________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m 22 s
+
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM04/28107004.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 18%
+[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_________________________________________________________________________________]
+
+Time from the start:
+0 h  0 m 22 s
+
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM05/28107005.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 22%
+[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_____________________________________________________________________________]
+
+Time from the start:
+0 h  0 m 22 s
+
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM06/28107006.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 27%
+[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ________________________________________________________________________]
+
+Time from the start:
+0 h  0 m 22 s
+
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM07/28107007.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 31%
+[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ____________________________________________________________________]
+
+Time from the start:
+0 h  0 m 23 s
+
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM08/28107008.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 36%
+[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_______________________________________________________________]
+
+Time from the start:
+0 h  0 m 23 s
+
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM09/28107009.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 40%
+[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ___________________________________________________________]
+
+Time from the start:
+0 h  0 m 23 s
+
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM10/28107010.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 45%
+[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ______________________________________________________]
+
+Time from the start:
+0 h  0 m 23 s
+
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM11/28107011.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 50%
+[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ__________________________________________________]
+
+Time from the start:
+0 h  0 m 23 s
+
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM12/28107012.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 54%
+[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_____________________________________________]
+
+Time from the start:
+0 h  0 m 23 s
+
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM13/28107013.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 59%
+[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ________________________________________]
+
+Time from the start:
+0 h  0 m 23 s
+
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM14/28107014.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 63%
+[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ____________________________________]
+
+Time from the start:
+0 h  0 m 24 s
+
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM15/28107015.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 68%
+[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_______________________________]
+
+Time from the start:
+0 h  0 m 24 s
+
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM16/28107016.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 72%
+[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ___________________________]
+
+Time from the start:
+0 h  0 m 25 s
+
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM17/28107017.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 77%
+[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ______________________]
+
+Time from the start:
+0 h  0 m 26 s
+
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM18/28107018.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 81%
+[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ__________________]
+
+Time from the start:
+0 h  0 m 26 s
+
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM19/28107019.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 86%
+[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_____________]
+
+Time from the start:
+0 h  0 m 26 s
+
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM20/28107020.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 90%
+[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ_________]
+
+Time from the start:
+0 h  0 m 28 s
+
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM21/28107021.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 95%
+[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ____]
+
+Time from the start:
+0 h  0 m 28 s
+
+Tail file  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/BSM22/28107022.050  amplitudes collecting...
+Progress of tail files 050 amplitudes collecting: 100%
+[ⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻⒻ]
+
+Time from the start:
+0 h  0 m 30 s
+
+Cleaning the event matrix for tail  050  from  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  for 0-coincidences events...
+DELETED  98.233% events
+Out file for  050  tail from  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  are filling...
+Progress of creating summary files for tails: 100%
+[ⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉⓉ]
+
+Time from the start:
+0 h  0 m 35 s
+
+Statistics for tail 050 from /home/yaroslav/Yaroslavus_GitHub/DATA/281017/ are calculating...
+coins: 0	events: 0
+
+coins: 1	events: 195220
+
+coins: 2	events: 429
+
+coins: 3	events: 88
+
+coins: 4	events: 14
+
+coins: 5	events: 9
+
+coins: 6	events: 0
+
+coins: 7	events: 1
+
+coins: 8	events: 1
+
+coins: 9	events: 0
+
+coins: 10	events: 0
+
+coins: 11	events: 0
+
+coins: 12	events: 1
+
+coins: 13	events: 0
+
+coins: 14	events: 0
+
+coins: 15	events: 0
+
+coins: 16	events: 0
+
+coins: 17	events: 0
+
+coins: 18	events: 0
+
+coins: 19	events: 0
+
+coins: 20	events: 0
+
+coins: 21	events: 0
+
+coins: 22	events: 0
+
+The summary files for  /home/yaroslav/Yaroslavus_GitHub/DATA/281017/  have been created
+
+Time from the start:
+0 h  0 m 35 s
+
+
+Time from the start:
+0 h  0 m 35 s
+
+Mess destroying...
+
+Time from the start:
+0 h  0 m 35 s
+
+
+All time for processing input data:
+ 
+Time from the start:
+0 h  0 m 35 s
+

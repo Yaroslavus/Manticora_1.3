@@ -11,6 +11,8 @@ Created on Sun Apr 19 20:11:45 2020
 import manticore_parser
 import manticore_tools
 import manticore_multiprocessing
+#import manticore_parser_new
+
 #==============================================================================
 # All user sets saves in main branch (manticore_main_fast, HERE)===============
 # and oly main branch has access to operate them ==============================
@@ -25,6 +27,7 @@ if (SET_1 != '1' and SET_1 != '2' and SET_1 != '3'):
     print("ERROR: SET_1 IS WRONG!")
     manticore_tools.system_exit()
 
+#manticore_parser_new.parser(SET_3, START_TIME)
 manticore_parser.universal_parser(SET_3, START_TIME)
 manticore_tools.is_preprocessing_needed(SET_1, START_TIME)
 manticore_multiprocessing.to_process_mult(START_TIME)
