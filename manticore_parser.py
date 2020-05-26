@@ -23,13 +23,13 @@ def universal_parser(string_with_objects_to_process, start_time):
 
     for item in list_with_objects_to_process:
         bsm = re.findall(tools.BSM_REGULAR_PATTERN_U, item)
-        file = re.findall(tools.RAW_FILE_REGULAR_PATTERN_U, item)
+        one_file = re.findall(tools.RAW_FILE_REGULAR_PATTERN_U, item)
         tail = re.findall(tools.TAIL_FILE_REGULAR_PATTERN_U, item)
         day = re.findall(tools.DAY_REGULAR_PATTERN_U, item)
         if bsm:
             list_of_bsm.extend(bsm)
-        elif file:
-            list_of_files.extend(file)
+        elif one_file:
+            list_of_files.extend(one_file)
         elif tail:
             list_of_tails.extend(tail)
         elif day:
@@ -48,8 +48,8 @@ def universal_parser(string_with_objects_to_process, start_time):
                 tools.SCRIPT_DIRECTORY))
 
     if list_of_files:
-        for file in list_of_files:
-            parse_one_file(file)
+        for one_file in list_of_files:
+            parse_one_file(one_file)
     if list_of_tails:
         for tail in list_of_tails:
             parse_one_tail(tail)

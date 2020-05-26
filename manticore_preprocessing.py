@@ -130,7 +130,7 @@ def make_pedestals(file_to_process):
                     PED_square[i] += cycle_ampl_matrix[i]*cycle_ampl_matrix[i]
                     counter[i] += 1
             except:
-                print("{} Chunk number {} in file {} is seems to be corrupted!".format(
+                print("{} Chunk number {} in file {} is seems to be corrupted!\n".format(
                     "RAW CHUNK CORRUPTION ERROR!",
                     chunk_counter,
                     file_to_process[:-18] + "PED/" + file_to_process[-12:-4] + ".ped"))
@@ -184,23 +184,23 @@ def make_clean_amplitudes_and_headers(file_to_process):
     maroc_number_byte = 20
 
     with open(tools.make_PED_file_temp(file_to_process) + ".fpd", "rb") as ped_fin:
+        peds = ped_fin.read()
         try:
-            peds = ped_fin.read()
             peds_array = tools.unpacked_from_bytes('<64f', peds)
         except:
-            print("{} File {} is seems to be corrupted!".format(
+            print("{} File {} is seems to be corrupted!\n".format(
                 "FPD-file CORRUPTION ERROR!",
                 tools.make_PED_file_temp(file_to_process) + ".fpd"))
-            
+
     with open(tools.make_PED_file_temp(file_to_process) + ".ig", "rb") as ig_fin:
+        ig_bytes = ig_fin.read()
         try:
-            ig_bytes = ig_fin.read()
             ig_array = tools.unpacked_from_bytes('<64B', ig_bytes)
         except:
-            print("{} File {} is seems to be corrupted!".format(
+            print("{} File {} is seems to be corrupted!\n".format(
                 "IG-file CORRUPTION ERROR!",
                 tools.make_PED_file_temp(file_to_process) + ".ig"))
-            
+
     with open(file_to_process, "rb") as codes_fin:
         with open(tools.make_BSM_file_temp(file_to_process) + ".wfp", "wb") as cleaned_file:
             with open(tools.make_BSM_file_temp(file_to_process) + ".hdr", "wb") as header_file:
@@ -238,7 +238,7 @@ def make_clean_amplitudes_and_headers(file_to_process):
                         header_file.write(
                             chunk[number_1_beginning_byte:maroc_number_byte +1])
                     except:
-                        print("{} Chunk number {} in file {} is seems to be corrupted!".format(
+                        print("{} Chunk number {} in file {} is seems to be corrupted!\n".format(
                             "RAW CHUNK CORRUPTION ERROR!",
                             chunk_counter,
                             file_to_process))
@@ -403,7 +403,7 @@ def fill_the_matrix_of_events(matrix_of_events, tail_files, tail, start_time):
                             tail_file))
                     chunk_counter += 1
                     chunk = tail_file.read(chunk_size)
-    
+
             tail_files_counter += 1
             tools.syprogressbar(
                 tail_files_counter,
