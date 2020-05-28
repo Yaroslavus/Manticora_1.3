@@ -22,7 +22,7 @@ START_TIME = manticore_tools.what_time_is_now()
 manticore_tools.mess_destroyer(START_TIME)
 
 SET_1, SET_2, SET_3 = manticore_tools.read_input_card()
-if (SET_1 != '1' and SET_1 != '2' and SET_1 != '3'):
+if SET_1 not in ('1', '2', '3'):
     print("ERROR: SET_1 IS WRONG!")
     manticore_tools.system_exit()
 

@@ -11,7 +11,7 @@ Created on Sun Apr 19 20:11:45 2020
 import manticore_parser
 import manticore_tools
 import manticore_multiprocessing
-#import manticore_parser_new
+import manticore_parser_new
 
 #==============================================================================
 # All user sets saves in main branch (manticore_main_fast, HERE)===============
@@ -23,12 +23,12 @@ START_TIME = manticore_tools.what_time_is_now()
 manticore_tools.mess_destroyer(START_TIME)
 
 SET_1, SET_2, SET_3 = manticore_tools.read_input_card()
-if (SET_1 != '1' and SET_1 != '2' and SET_1 != '3'):
+if SET_1 not in ('1', '2', '3'):
     print("ERROR: SET_1 IS WRONG!")
     manticore_tools.system_exit()
 
-#manticore_parser_new.parser(SET_3, START_TIME)
-manticore_parser.universal_parser(SET_3, START_TIME)
+manticore_parser_new.parser(SET_3, START_TIME)
+#manticore_parser.universal_parser(SET_3, START_TIME)
 manticore_tools.is_preprocessing_needed(SET_1, START_TIME)
 manticore_multiprocessing.to_process_mult(START_TIME)
 TOTAL_DICT_OF_DAYS = manticore_multiprocessing.count_tails_range_mult(START_TIME)
