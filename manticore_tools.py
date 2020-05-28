@@ -24,11 +24,6 @@ RAW_FILE_REGULAR_PATTERN = r"\d{8}\.\d{3}$"
 BSM_REGULAR_PATTERN = r"BSM\d{2}$"
 DAY_REGULAR_PATTERN = r"^\d{6}\.?\d{0,3}$"
 TAIL_FILE_REGULAR_PATTERN = r"\d{8}\."
-
-TAIL_FILE_REGULAR_PATTERN_U = r"^\/\d{6}\/\.?\d{3}$"
-RAW_FILE_REGULAR_PATTERN_U = r"^\/\d{6}\.?\d{0,3}\/BSM\d{2}\/\d{8}\.\d{3}$"
-BSM_REGULAR_PATTERN_U = r"^\/\d{6}\.?\d{0,3}\/BSM\d{2}$"
-DAY_REGULAR_PATTERN_U = r"^\/\d{6}\.?\d{0,3}$"
 # =============================================================================
 #
 # =============================================================================
