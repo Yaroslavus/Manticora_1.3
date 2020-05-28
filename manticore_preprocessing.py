@@ -59,7 +59,7 @@ def to_process_single_file(file_to_process):
         if (tools.is_exist(tools.make_PED_file_temp(file_to_process) + ".fpd") or
                 tools.is_exist(tools.make_PED_file_temp(file_to_process) + ".sgm") or
                 tools.is_exist(tools.make_PED_file_temp(file_to_process) + ".ig")) is False:
-            make_pedestals(file_to_process)
+            mp1.make_pedestals(file_to_process)
 #           .fpd - fine pedestals
             print("Cleaning for pedestals")
             mess_file.write("Made temporary file:  {}.fpd\n".format(
@@ -82,7 +82,7 @@ def to_process_single_file(file_to_process):
         else: print("Pedestal file exists.")
         if (tools.is_exist(tools.make_BSM_file_temp(file_to_process) + ".wfp") or
                 tools.is_exist(tools.make_BSM_file_temp(file_to_process) + ".hdr")) is False:
-            make_clean_amplitudes_and_headers(file_to_process)
+            mp1.make_clean_amplitudes_and_headers(file_to_process)
 #           .hdr - file with only events number #1, event number #2,
 #           time of event and maroc number
             print("Creating of the header...")
