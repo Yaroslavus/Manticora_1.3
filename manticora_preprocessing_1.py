@@ -55,7 +55,7 @@ def make_pedestals(file_to_process):
                                     PED_square[i] += cycle_ampl_matrix[i]*cycle_ampl_matrix[i]
                                     counter[i] += 1
                                 chunk_counter += 1
-                            except:
+                            except Exception:
                                 print("{} Chunk number {} in file {} is seems to be corrupted!\n".format(
                                     "RAW CHUNK CORRUPTION ERROR!",
                                     chunk_counter,
@@ -113,7 +113,7 @@ def make_clean_amplitudes_and_headers(file_to_process):
         peds = ped_fin.read()
         try:
             peds_array = tools.unpacked_from_bytes('<64f', peds)
-        except:
+        except Exception:
             print("{} File {} is seems to be corrupted!\n".format(
                 "FPD-file CORRUPTION ERROR!",
                 tools.make_PED_file_temp(file_to_process) + ".fpd"))
@@ -122,7 +122,7 @@ def make_clean_amplitudes_and_headers(file_to_process):
         ig_bytes = ig_fin.read()
         try:
             ig_array = tools.unpacked_from_bytes('<64B', ig_bytes)
-        except:
+        except Exception:
             print("{} File {} is seems to be corrupted!\n".format(
                 "IG-file CORRUPTION ERROR!",
                 tools.make_PED_file_temp(file_to_process) + ".ig"))
@@ -176,7 +176,7 @@ def make_clean_amplitudes_and_headers(file_to_process):
                                         header_file.write(
                                             chunk[number_1_beginning_byte:maroc_number_byte +1])
                                         chunk_counter += 1
-                                    except:
+                                    except Exception:
                                         print("{} Chunk number {} in file {} is seems to be corrupted!\n".format(
                                             "RAW CHUNK CORRUPTION ERROR!",
                                             chunk_counter,

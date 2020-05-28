@@ -130,7 +130,7 @@ def make_pedestals(file_to_process):
                     PED[i] += cycle_ampl_matrix[i]
                     PED_square[i] += cycle_ampl_matrix[i]*cycle_ampl_matrix[i]
                     counter[i] += 1
-            except:
+            except Exception:
                 print("{} Chunk number {} in file {} is seems to be corrupted!\n".format(
                     "RAW CHUNK CORRUPTION ERROR!",
                     chunk_counter,
@@ -188,7 +188,7 @@ def make_clean_amplitudes_and_headers(file_to_process):
         peds = ped_fin.read()
         try:
             peds_array = tools.unpacked_from_bytes('<64f', peds)
-        except:
+        except Exception:
             print("{} File {} is seems to be corrupted!\n".format(
                 "FPD-file CORRUPTION ERROR!",
                 tools.make_PED_file_temp(file_to_process) + ".fpd"))
@@ -197,7 +197,7 @@ def make_clean_amplitudes_and_headers(file_to_process):
         ig_bytes = ig_fin.read()
         try:
             ig_array = tools.unpacked_from_bytes('<64B', ig_bytes)
-        except:
+        except Exception:
             print("{} File {} is seems to be corrupted!\n".format(
                 "IG-file CORRUPTION ERROR!",
                 tools.make_PED_file_temp(file_to_process) + ".ig"))
@@ -238,7 +238,7 @@ def make_clean_amplitudes_and_headers(file_to_process):
                         # chunk_size in header will be 17 bytes
                         header_file.write(
                             chunk[number_1_beginning_byte:maroc_number_byte +1])
-                    except:
+                    except Exception:
                         print("{} Chunk number {} in file {} is seems to be corrupted!\n".format(
                             "RAW CHUNK CORRUPTION ERROR!",
                             chunk_counter,
@@ -302,11 +302,11 @@ def count_tails_range(start_time):
     print("Evevt numbers range in parallel bsms are finding out...")
     with open('.files_list.txt', 'r') as files:
         files_list = files.readlines()
-    days_set = set_of_days(files_list)
+    days_list = sorted(list(set_of_days(files_list)))
 
-    for day in sorted(days_set):
-        tails_set = set_of_tails(files_list, day)
-        for tail in sorted(tails_set):
+    for day in days_list:
+        tails_list = sorted(list(set_of_tails(files_list, day)))
+        for tail in tails_list:
             dict_of_max_min[tail] = dict_of_num_min_max_in_tail(
                 tail,
                 files_list,
@@ -314,7 +314,7 @@ def count_tails_range(start_time):
             dict_of_days[day] = dict_of_max_min
             tails_counter += 1
             tools.syprogressbar(tails_counter,
-                                len(tails_set),
+                                len(tails_list),
                                 u'\u24C2',
                                 "finding out of evevt numbers range in {} tail finished".format(
                                     tail),
@@ -397,9 +397,9 @@ def fill_the_matrix_of_events(matrix_of_events, tail_files, tail, start_time):
                                 maroc_number,
                                 time_string,
                                 result_string_ampls)
-                    except:
+                    except Exception:
                         print("{} Chunk number {} in file {} is seems to be corrupted!".format(
-                            "WFP-file CHUNK CORRUPTION ERROR!",
+                            "WFP FILE CHUNK CORRUPTION ERROR!",
                             chunk_counter,
                             tail_file))
                     chunk_counter += 1
@@ -412,9 +412,9 @@ def fill_the_matrix_of_events(matrix_of_events, tail_files, tail, start_time):
                 u'\u24BB',
                 "tail files {} amplitudes collecting".format(tail),
                 start_time)
-        except:
+        except Exception:
             print("{} File {} is seems to be not existed!".format(
-                    "WFP-file EXISTING ERROR!",
+                    "WFP FILE EXISTING ERROR!",
                     tail_file))
     return matrix_of_events
 # =============================================================================
@@ -518,24 +518,38 @@ def dict_of_num_min_max_in_tail(tail, files_list, day):
         file = tools.check_and_cut_the_tail(file)
         day_of_this_file = file[:-18]
         if day_of_this_file == day:
-            file = file[:-12] + "." + file[-12:-3] + tail + '.wfp'
-            with open(file, 'rb') as wfp_file:
-                chunk = wfp_file.read(chunk_size)
-                num_ev_bytes = chunk[4:8]
-                num_ev = tools.unpacked_from_bytes(
-                    'I', num_ev_bytes)[0]
-                if num_ev < num_min:
-                    num_min = num_ev
-                while chunk:
-                    next_chunk = wfp_file.read(chunk_size)
-                    if next_chunk: chunk = next_chunk
-                    else: break
-                num_ev_bytes = chunk[4:8]
-                num_ev = tools.unpacked_from_bytes(
-                    'I', num_ev_bytes)[0]
-                if num_ev > num_max:
-                    num_max = num_ev
-
+            tail_of_this_file = file[-12:-3]
+            if tail_of_this_file == tail:
+                file = tools.make_BSM_file_temp(file) + '.wfp'
+                print(file)
+                with open(file, 'rb') as wfp_file:
+                    try:
+                        chunk = wfp_file.read(chunk_size)
+                        num_ev_bytes = chunk[4:8]
+                        num_ev = tools.unpacked_from_bytes(
+                            'I', num_ev_bytes)[0]
+                        if num_ev < num_min:
+                            num_min = num_ev
+                    except Exception:
+                        print("{} Chunk number {} in file {} is seems to be corrupted!\n".format(
+                            "WFP FILE CORRUPTION ERROR!",
+                            'ZERO',
+                            file))
+                    while chunk:
+                        next_chunk = wfp_file.read(chunk_size)
+                        if next_chunk: chunk = next_chunk
+                        else: break
+                    try:
+                        num_ev_bytes = chunk[4:8]
+                        num_ev = tools.unpacked_from_bytes(
+                            'I', num_ev_bytes)[0]
+                        if num_ev > num_max:
+                            num_max = num_ev
+                    except Exception:
+                        print("{} Chunk number {} in file {} is seems to be corrupted!\n".format(
+                            "WFP FILE CORRUPTION ERROR!",
+                            'LAST',
+                            file))  
     return [num_min, num_max]
 # =============================================================================
 #

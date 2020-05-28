@@ -206,12 +206,12 @@ def count_tails_range_mult(start_time):
         files_list = files.readlines()
     days_set = manticore_preprocessing.set_of_days(files_list)
 
-    for day in sorted(days_set):
-        tails_set = sorted(manticore_preprocessing.set_of_tails(files_list, day))
+    for day in sorted(list(days_set)):
+        tails_list = sorted(list(manticore_preprocessing.set_of_tails(files_list, day)))
         chunk_size = tools.MAX_NUMBER_OF_SIMULTANEOUSLY_OPENED_FILES
         chunk_counter = 0
         chunk_to_process =\
-        tails_set[chunk_size*chunk_counter:chunk_size*(chunk_counter + 1)]
+        tails_list[chunk_size*chunk_counter:chunk_size*(chunk_counter + 1)]
         while chunk_to_process:
             processes = []
             for tail in chunk_to_process:
@@ -222,15 +222,16 @@ def count_tails_range_mult(start_time):
                 process.start()
                 tails_counter += 1
                 tools.syprogressbar(tails_counter,
-                                len(tails_set),
+                                len(tails_list),
                                 u'\u24C2',
                                 "finding out of evevt numbers range in {} tail finished".format(
                                     tail),
                                 start_time)
                 for process in processes:
                     process.join()
+                chunk_counter += 1
                 chunk_to_process =\
-                tails_set[chunk_size*chunk_counter:chunk_size*(chunk_counter + 1)]
+                tails_list[chunk_size*chunk_counter:chunk_size*(chunk_counter + 1)]
         dict_of_days[day] = dict_of_max_min
         print(tools.time_check(start_time))
     print("Finding out of evevt numbers range in parallel bsms was finished.")
@@ -256,23 +257,38 @@ def dict_of_num_min_max_in_tail_mult(tail, files_list, day, dict_of_max_min):
         file = tools.check_and_cut_the_tail(file)
         day_of_this_file = file[:-18]
         if day_of_this_file == day:
-            file = file[:-12] + "." + file[-12:-3] + tail + '.wfp'
-            with open(file, 'rb') as wfp_file:
-                chunk = wfp_file.read(chunk_size)
-                num_ev_bytes = chunk[4:8]
-                num_ev = tools.unpacked_from_bytes(
-                    'I', num_ev_bytes)[0]
-                if num_ev < num_min:
-                    num_min = num_ev
-                while chunk:
-                    next_chunk = wfp_file.read(chunk_size)
-                    if next_chunk: chunk = next_chunk
-                    else: break
-                num_ev_bytes = chunk[4:8]
-                num_ev = tools.unpacked_from_bytes(
-                    'I', num_ev_bytes)[0]
-                if num_ev > num_max:
-                    num_max = num_ev
+            tail_of_this_file = file[-12:-3]
+            if tail_of_this_file == tail:
+                file = tools.make_BSM_file_temp(file) + '.wfp'
+                print(file)
+                with open(file, 'rb') as wfp_file:
+                    try:
+                        chunk = wfp_file.read(chunk_size)
+                        num_ev_bytes = chunk[4:8]
+                        num_ev = tools.unpacked_from_bytes(
+                            'I', num_ev_bytes)[0]
+                        if num_ev < num_min:
+                            num_min = num_ev
+                    except Exception:
+                        print("{} Chunk number {} in file {} is seems to be corrupted!\n".format(
+                            "WFP FILE CORRUPTION ERROR!",
+                            'ZERO',
+                            file))
+                    while chunk:
+                        next_chunk = wfp_file.read(chunk_size)
+                        if next_chunk: chunk = next_chunk
+                        else: break
+                    try:
+                        num_ev_bytes = chunk[4:8]
+                        num_ev = tools.unpacked_from_bytes(
+                            'I', num_ev_bytes)[0]
+                        if num_ev > num_max:
+                            num_max = num_ev
+                    except Exception:
+                        print("{} Chunk number {} in file {} is seems to be corrupted!\n".format(
+                            "WFP FILE CORRUPTION ERROR!",
+                            'LAST',
+                            file))
     dict_of_max_min[tail] = [num_min, num_max]
 # =============================================================================
 #
