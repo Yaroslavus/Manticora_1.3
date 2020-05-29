@@ -29,6 +29,10 @@ manticore_parser.parser(SET_3, START_TIME)
 manticore_tools.is_preprocessing_needed(SET_1, START_TIME)
 manticore_multiprocessing.to_process_mult(START_TIME)
 TOTAL_DICT_OF_DAYS = manticore_multiprocessing.count_tails_range_mult(START_TIME)
+for key, value in TOTAL_DICT_OF_DAYS.items():
+    print(key)
+    for key_1, value_1 in value.items():
+        print(key_1, value_1)
 manticore_multiprocessing.fill_the_summary_files_mult(TOTAL_DICT_OF_DAYS, START_TIME)
 
 if SET_2 != '1':

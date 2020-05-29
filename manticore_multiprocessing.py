@@ -7,6 +7,7 @@ Created on Fri May 15 17:46:18 2020
 """
 from multiprocessing import Process, Manager
 import manticore_preprocessing
+import manticora_preprocessing_1
 import manticore_tools as tools
 # =============================================================================
 #
@@ -30,7 +31,7 @@ def to_process_single_file_mult(file_to_process, strings_to_write_to_mess_file):
     if (tools.is_exist(tools.make_PED_file_temp(file_to_process) + ".fpd") or
             tools.is_exist(tools.make_PED_file_temp(file_to_process) + ".sgm") or
             tools.is_exist(tools.make_PED_file_temp(file_to_process) + ".ig")) is False:
-        manticore_preprocessing.make_pedestals(file_to_process)
+        manticora_preprocessing_1.make_pedestals(file_to_process)
 #       .fpd - fine pedestals
         print("Cleaning for pedestals")
         strings_to_write_to_mess_file.append(
@@ -56,7 +57,7 @@ def to_process_single_file_mult(file_to_process, strings_to_write_to_mess_file):
     else: print("Pedestal file for\t{}\texists.".format(file_to_process))
     if (tools.is_exist(tools.make_BSM_file_temp(file_to_process) + ".wfp") or
             tools.is_exist(tools.make_BSM_file_temp(file_to_process) + ".hdr")) is False:
-        manticore_preprocessing.make_clean_amplitudes_and_headers(file_to_process)
+        manticora_preprocessing_1.make_clean_amplitudes_and_headers(file_to_process)
 #           .hdr - file with only events number #1, event number #2,
 #           time of event and maroc number
         print("Creating of the header...")
@@ -237,7 +238,6 @@ def count_tails_range_mult(start_time):
     print("Finding out of evevt numbers range in parallel bsms was finished.")
     print(tools.time_check(start_time))
     return dict_of_days
-
 # =============================================================================
 #
 # =============================================================================
@@ -257,10 +257,9 @@ def dict_of_num_min_max_in_tail_mult(tail, files_list, day, dict_of_max_min):
         file = tools.check_and_cut_the_tail(file)
         day_of_this_file = file[:-18]
         if day_of_this_file == day:
-            tail_of_this_file = file[-12:-3]
+            tail_of_this_file = file[-3:]
             if tail_of_this_file == tail:
                 file = tools.make_BSM_file_temp(file) + '.wfp'
-                print(file)
                 with open(file, 'rb') as wfp_file:
                     try:
                         chunk = wfp_file.read(chunk_size)

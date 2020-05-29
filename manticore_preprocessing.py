@@ -59,7 +59,7 @@ def to_process_single_file(file_to_process):
         if (tools.is_exist(tools.make_PED_file_temp(file_to_process) + ".fpd") or
                 tools.is_exist(tools.make_PED_file_temp(file_to_process) + ".sgm") or
                 tools.is_exist(tools.make_PED_file_temp(file_to_process) + ".ig")) is False:
-            mp1.make_pedestals(file_to_process)
+            make_pedestals(file_to_process)
 #           .fpd - fine pedestals
             print("Cleaning for pedestals")
             mess_file.write("Made temporary file:  {}.fpd\n".format(
@@ -82,7 +82,7 @@ def to_process_single_file(file_to_process):
         else: print("Pedestal file exists.")
         if (tools.is_exist(tools.make_BSM_file_temp(file_to_process) + ".wfp") or
                 tools.is_exist(tools.make_BSM_file_temp(file_to_process) + ".hdr")) is False:
-            mp1.make_clean_amplitudes_and_headers(file_to_process)
+            make_clean_amplitudes_and_headers(file_to_process)
 #           .hdr - file with only events number #1, event number #2,
 #           time of event and maroc number
             print("Creating of the header...")
@@ -518,10 +518,9 @@ def dict_of_num_min_max_in_tail(tail, files_list, day):
         file = tools.check_and_cut_the_tail(file)
         day_of_this_file = file[:-18]
         if day_of_this_file == day:
-            tail_of_this_file = file[-12:-3]
+            tail_of_this_file = file[-3:]
             if tail_of_this_file == tail:
                 file = tools.make_BSM_file_temp(file) + '.wfp'
-                print(file)
                 with open(file, 'rb') as wfp_file:
                     try:
                         chunk = wfp_file.read(chunk_size)
